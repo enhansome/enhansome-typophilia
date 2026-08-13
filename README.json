@@ -44,7 +44,7 @@
             "last_commit": "2025-01-31T14:05:22Z",
             "owner": "JetBrains",
             "repo": "JetBrainsMono",
-            "stars": 12955
+            "stars": 12957
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2024-01-18T04:30:32Z",
             "owner": "tokotype",
             "repo": "PlusJakartaSans",
-            "stars": 1088
+            "stars": 1090
           }
         },
         {
@@ -272,7 +272,7 @@
             "last_commit": "2020-12-16T10:22:30Z",
             "owner": "mozilla",
             "repo": "Fira",
-            "stars": 5142
+            "stars": 5141
           }
         },
         {
@@ -348,7 +348,7 @@
             "last_commit": "2026-05-11T21:22:36Z",
             "owner": "marcologous",
             "repo": "Open-Sauce-Fonts",
-            "stars": 690
+            "stars": 691
           }
         },
         {
@@ -362,7 +362,7 @@
             "last_commit": "2025-05-09T11:00:55Z",
             "owner": "ivodolenc",
             "repo": "aspekta",
-            "stars": 531
+            "stars": 532
           }
         },
         {
@@ -376,7 +376,7 @@
             "last_commit": "2025-05-09T11:00:55Z",
             "owner": "ivodolenc",
             "repo": "aspekta",
-            "stars": 531
+            "stars": 532
           }
         },
         {
@@ -404,7 +404,7 @@
             "last_commit": "2024-05-27T12:07:41Z",
             "owner": "wanteddev",
             "repo": "wanted-sans",
-            "stars": 352
+            "stars": 355
           }
         },
         {
@@ -578,7 +578,7 @@
             "last_commit": "2026-05-27T21:49:03Z",
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11260
+            "stars": 11264
           }
         },
         {
@@ -592,7 +592,7 @@
             "last_commit": "2025-09-08T22:22:24Z",
             "owner": "intel",
             "repo": "intel-one-mono",
-            "stars": 9933
+            "stars": 9932
           }
         },
         {
@@ -606,7 +606,7 @@
             "last_commit": "2026-03-21T10:01:37Z",
             "owner": "0xType",
             "repo": "0xProto",
-            "stars": 2760
+            "stars": 2761
           }
         },
         {
@@ -642,7 +642,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:08:13.502Z",
+    "last_updated": "2026-08-13T20:01:31.466Z",
     "original_repository": "subidit/typophilia",
     "original_repository_sha": "8727cda05dc8f2573a17156bb9661d3aa5da4dac",
     "enhanced_repository": "enhansome/enhansome-typophilia",
