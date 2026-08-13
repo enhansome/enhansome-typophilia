@@ -1,0 +1,652 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Typeface Variants or Fonts"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Default Fonts"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Fonts in U.S. Elections"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Vox-ATypI Classification (Deprecated)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Typography Timeline"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Eras of Printing Technology"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JetBrains Mono",
+          "description": "on GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-01-31T14:05:22Z",
+            "owner": "JetBrains",
+            "repo": "JetBrainsMono",
+            "stars": 12955
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iA-Fonts",
+          "description": "on GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-06-16T16:21:57Z",
+            "owner": "iaolo",
+            "repo": "iA-Fonts",
+            "stars": 4130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cal Sans",
+          "description": "used by cal.com",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-05T03:40:35Z",
+            "owner": "calcom",
+            "repo": "sans",
+            "stars": 1606
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apple's San Francisco",
+          "description": "on GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-03-01T04:14:14Z",
+            "owner": "AppleDesignResources",
+            "repo": "SanFranciscoFont",
+            "stars": 1087
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Red Hat fonts",
+          "description": "on GitHub by MCKL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-04-28T19:53:02Z",
+            "owner": "RedHatOfficial",
+            "repo": "RedHatFont",
+            "stars": 604
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reddit Sans",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Pug",
+            "last_commit": "2025-06-09T02:11:49Z",
+            "owner": "reddit",
+            "repo": "redditsans",
+            "stars": 463
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Twilio Sans Mono",
+          "description": "by Sharp Type",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-11-17T21:52:07Z",
+            "owner": "twilio",
+            "repo": "twilio-sans-mono",
+            "stars": 310
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Intel's Clear Sans",
+          "description": "& One Mono",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2023-01-07T00:46:47Z",
+            "owner": "intel",
+            "repo": "clear-sans",
+            "stars": 175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HackerNoon Font",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-08-31T18:44:08Z",
+            "owner": "hackernoon",
+            "repo": "font",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Balsamiq Sans Font",
+          "description": "on GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T06:55:31Z",
+            "owner": "balsamiq",
+            "repo": "balsamiqsans",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Airbnb Cereal",
+          "description": "by Dalton Maag on GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-02-25T11:34:27Z",
+            "owner": "iyadh",
+            "repo": "cereal-airbnb-font",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cisco Sans on GitHub",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Custom Corporate Fonts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "+Jakarta Sans",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-18T04:30:32Z",
+            "owner": "tokotype",
+            "repo": "PlusJakartaSans",
+            "stars": 1088
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cooper Hewitt",
+          "description": "from Smithsonian Design Musium on GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-09-04T05:49:22Z",
+            "owner": "cooperhewitt",
+            "repo": "cooperhewitt-typeface",
+            "stars": 426
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SORA typeface",
+          "description": "neutral sans serif typeface",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-01T12:50:06Z",
+            "owner": "sora-xor",
+            "repo": "sora-font",
+            "stars": 179
+          }
+        }
+      ],
+      "title": "Fonts by Government and Public Institutions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "IBM Plex",
+          "description": "on GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-07-30T11:29:25Z",
+            "owner": "IBM",
+            "repo": "plex",
+            "stars": 11559
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mozilla's Fira Type Family",
+          "description": "on GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2020-12-16T10:22:30Z",
+            "owner": "mozilla",
+            "repo": "Fira",
+            "stars": 5142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "London Underground Dot-Matrix Typeface",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-14T11:36:03Z",
+            "owner": "petykowski",
+            "repo": "London-Underground-Dot-Matrix-Typeface",
+            "stars": 1610
+          }
+        }
+      ],
+      "title": "Notable Free Fonts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open Runde",
+          "description": "rounded variant of Inter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-25T15:28:04Z",
+            "owner": "lauridskern",
+            "repo": "open-runde",
+            "stars": 1490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Overused Grotesk",
+          "description": "classic neo-grotesk Swiss design",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-28T12:17:24Z",
+            "owner": "RandomMaerks",
+            "repo": "Overused-Grotesk",
+            "stars": 784
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Optician Sans",
+          "description": "Typeface based on the historical eye charts and optotypes used by opticians world wide.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-12-19T01:29:00Z",
+            "owner": "anewtypeofinterference",
+            "repo": "Optician-Sans",
+            "stars": 699
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Sauce Fonts",
+          "description": "Creative Sauce's internal type super family.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-05-11T21:22:36Z",
+            "owner": "marcologous",
+            "repo": "Open-Sauce-Fonts",
+            "stars": 690
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aspekta",
+          "description": "modern sans-serif collection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-05-09T11:00:55Z",
+            "owner": "ivodolenc",
+            "repo": "aspekta",
+            "stars": 531
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aspekta",
+          "description": "modern sans-serif collection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-05-09T11:00:55Z",
+            "owner": "ivodolenc",
+            "repo": "aspekta",
+            "stars": 531
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Young Serif",
+          "description": "a heavy weight old style serif typeface",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-19T12:03:20Z",
+            "owner": "noirblancrouge",
+            "repo": "YoungSerif",
+            "stars": 469
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wanted Sans",
+          "description": "Geometric with a heart, Humanist with a soul",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-05-27T12:07:41Z",
+            "owner": "wanteddev",
+            "repo": "wanted-sans",
+            "stars": 352
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "basement grotesque",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-06T08:52:27Z",
+            "owner": "basementstudio",
+            "repo": "basement-grotesque",
+            "stars": 336
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Outfit Fonts",
+          "description": "geometric sans",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-01-02T12:58:05Z",
+            "owner": "Outfitio",
+            "repo": "Outfit-Fonts",
+            "stars": 325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Techna Sans",
+          "description": "Sharp, geometric typeface",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-08-19T23:09:49Z",
+            "owner": "somefreefonts",
+            "repo": "techna-sans",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Some Time Later",
+          "description": "Font inspired by the title and time cards in the Nickelodeon cartoon SpongeBob SquarePants.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-14T20:47:28Z",
+            "owner": "ctrlcctrlv",
+            "repo": "some-time-later",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Formera",
+          "description": "Futura Renner",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-14T21:13:42Z",
+            "owner": "noirblancrouge",
+            "repo": "Formera",
+            "stars": 177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Helmet",
+          "description": "a neo-grotesque display typeface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-10-04T15:44:05Z",
+            "owner": "somefreefonts",
+            "repo": "helmet",
+            "stars": 175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sprat",
+          "description": "display typeface based on an alphabet by Eric Gill.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-12-27T03:01:43Z",
+            "owner": "EthanNakache",
+            "repo": "Sprat-type",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Type With Pride",
+          "description": "inspired by the Rainbow Flag",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-05-28T13:26:02Z",
+            "owner": "Fontself",
+            "repo": "TypeWithPride",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mohave Typefaces",
+          "description": "Titling Display Fonts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2021-08-13T08:17:11Z",
+            "owner": "tokotype",
+            "repo": "Mohave-Typefaces",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Common Sans",
+          "description": "A neo-grotesque sans serif font family",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-04T23:28:57Z",
+            "owner": "StefanPeev",
+            "repo": "Common-Sans",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Metropolis",
+          "description": "A modern, geometric typeface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-24T06:59:16Z",
+            "owner": "typehaus",
+            "repo": "metropolis",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "Fonts on GitHub (Excluding Google Fonts)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Monocraft",
+          "description": "Minecraft typeface",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-27T21:49:03Z",
+            "owner": "IdreesInc",
+            "repo": "Monocraft",
+            "stars": 11260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Intel One Mono",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-08T22:22:24Z",
+            "owner": "intel",
+            "repo": "intel-one-mono",
+            "stars": 9933
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "0xProto",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-21T10:01:37Z",
+            "owner": "0xType",
+            "repo": "0xProto",
+            "stars": 2760
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Miracode",
+          "description": "Sharper Monocraft",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-05T21:13:43Z",
+            "owner": "IdreesInc",
+            "repo": "Miracode",
+            "stars": 1354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agave",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Tcl",
+            "last_commit": "2026-06-20T16:03:38Z",
+            "owner": "blobject",
+            "repo": "agave",
+            "stars": 1049
+          }
+        }
+      ],
+      "title": "Popular Fonts for Coding"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:08:13.502Z",
+    "original_repository": "subidit/typophilia",
+    "original_repository_sha": "8727cda05dc8f2573a17156bb9661d3aa5da4dac",
+    "enhanced_repository": "enhansome/enhansome-typophilia",
+    "enhanced_repository_description": null,
+    "title": "Awesome Typeface Trivia with stars"
+  }
+}
