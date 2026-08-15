@@ -44,7 +44,7 @@
             "last_commit": "2025-01-31T14:05:22Z",
             "owner": "JetBrains",
             "repo": "JetBrainsMono",
-            "stars": 12963
+            "stars": 12967
           }
         },
         {
@@ -58,7 +58,7 @@
             "last_commit": "2023-06-16T16:21:57Z",
             "owner": "iaolo",
             "repo": "iA-Fonts",
-            "stars": 4131
+            "stars": 4132
           }
         },
         {
@@ -100,7 +100,7 @@
             "last_commit": "2026-04-28T19:53:02Z",
             "owner": "RedHatOfficial",
             "repo": "RedHatFont",
-            "stars": 605
+            "stars": 606
           }
         },
         {
@@ -258,7 +258,7 @@
             "last_commit": "2026-07-30T11:29:25Z",
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11560
+            "stars": 11564
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2026-07-25T15:28:04Z",
             "owner": "lauridskern",
             "repo": "open-runde",
-            "stars": 1489
+            "stars": 1492
           }
         },
         {
@@ -320,7 +320,7 @@
             "last_commit": "2026-03-28T12:17:24Z",
             "owner": "RandomMaerks",
             "repo": "Overused-Grotesk",
-            "stars": 785
+            "stars": 786
           }
         },
         {
@@ -334,7 +334,7 @@
             "last_commit": "2021-12-19T01:29:00Z",
             "owner": "anewtypeofinterference",
             "repo": "Optician-Sans",
-            "stars": 700
+            "stars": 701
           }
         },
         {
@@ -578,7 +578,7 @@
             "last_commit": "2026-05-27T21:49:03Z",
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11264
+            "stars": 11266
           }
         },
         {
@@ -606,7 +606,7 @@
             "last_commit": "2026-03-21T10:01:37Z",
             "owner": "0xType",
             "repo": "0xProto",
-            "stars": 2762
+            "stars": 2764
           }
         },
         {
@@ -620,7 +620,7 @@
             "last_commit": "2025-08-05T21:13:43Z",
             "owner": "IdreesInc",
             "repo": "Miracode",
-            "stars": 1354
+            "stars": 1356
           }
         },
         {
@@ -642,7 +642,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T19:58:49.853Z",
+    "last_updated": "2026-08-15T19:39:18.228Z",
     "original_repository": "subidit/typophilia",
     "original_repository_sha": "8727cda05dc8f2573a17156bb9661d3aa5da4dac",
     "enhanced_repository": "enhansome/enhansome-typophilia",
