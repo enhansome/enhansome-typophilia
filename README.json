@@ -44,7 +44,7 @@
             "last_commit": "2025-01-31T14:05:22Z",
             "owner": "JetBrains",
             "repo": "JetBrainsMono",
-            "stars": 12974
+            "stars": 12975
           }
         },
         {
@@ -58,7 +58,7 @@
             "last_commit": "2023-06-16T16:21:57Z",
             "owner": "iaolo",
             "repo": "iA-Fonts",
-            "stars": 4133
+            "stars": 4135
           }
         },
         {
@@ -258,7 +258,7 @@
             "last_commit": "2026-07-30T11:29:25Z",
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11572
+            "stars": 11573
           }
         },
         {
@@ -320,7 +320,7 @@
             "last_commit": "2026-03-28T12:17:24Z",
             "owner": "RandomMaerks",
             "repo": "Overused-Grotesk",
-            "stars": 786
+            "stars": 783
           }
         },
         {
@@ -348,7 +348,7 @@
             "last_commit": "2026-05-11T21:22:36Z",
             "owner": "marcologous",
             "repo": "Open-Sauce-Fonts",
-            "stars": 692
+            "stars": 693
           }
         },
         {
@@ -578,7 +578,7 @@
             "last_commit": "2026-05-27T21:49:03Z",
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11272
+            "stars": 11279
           }
         },
         {
@@ -592,7 +592,7 @@
             "last_commit": "2025-09-08T22:22:24Z",
             "owner": "intel",
             "repo": "intel-one-mono",
-            "stars": 9933
+            "stars": 9935
           }
         },
         {
@@ -606,7 +606,7 @@
             "last_commit": "2026-03-21T10:01:37Z",
             "owner": "0xType",
             "repo": "0xProto",
-            "stars": 2766
+            "stars": 2767
           }
         },
         {
@@ -620,7 +620,7 @@
             "last_commit": "2025-08-05T21:13:43Z",
             "owner": "IdreesInc",
             "repo": "Miracode",
-            "stars": 1358
+            "stars": 1359
           }
         },
         {
@@ -634,7 +634,7 @@
             "last_commit": "2026-06-20T16:03:38Z",
             "owner": "blobject",
             "repo": "agave",
-            "stars": 1050
+            "stars": 1051
           }
         }
       ],
@@ -642,7 +642,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T19:45:51.934Z",
+    "last_updated": "2026-08-18T19:44:18.207Z",
     "original_repository": "subidit/typophilia",
     "original_repository_sha": "8727cda05dc8f2573a17156bb9661d3aa5da4dac",
     "enhanced_repository": "enhansome/enhansome-typophilia",
