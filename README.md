@@ -353,8 +353,8 @@ The common typeface classifications are:
 
 ## Custom Corporate Fonts
 
-1. [JetBrains Mono](https://www.jetbrains.com/lp/mono/) on [GitHub](https://github.com/JetBrains/JetBrainsMono) ⭐ 12,975 | 🐛 204 | 🌐 Shell | 📅 2025-01-31
-2. [iA-Fonts](https://ia.net/topics/a-typographic-christmas) on [GitHub](https://github.com/iaolo/iA-Fonts) ⭐ 4,135 | 🐛 10 | 📅 2023-06-16
+1. [JetBrains Mono](https://www.jetbrains.com/lp/mono/) on [GitHub](https://github.com/JetBrains/JetBrainsMono) ⭐ 12,977 | 🐛 204 | 🌐 Shell | 📅 2025-01-31
+2. [iA-Fonts](https://ia.net/topics/a-typographic-christmas) on [GitHub](https://github.com/iaolo/iA-Fonts) ⭐ 4,136 | 🐛 10 | 📅 2023-06-16
 3. [Cal Sans](https://github.com/calcom/font) ⭐ 1,607 | 🐛 7 | 🌐 Python | 📅 2026-07-05 used by cal.com
 4. Apple's [San Francisco](https://developer.apple.com/fonts/) on [GitHub](https://github.com/AppleDesignResources/SanFranciscoFont) ⭐ 1,087 | 🐛 7 | 📅 2017-03-01
 5. [Red Hat fonts](https://www.redhat.com/en/about/brand/standards/typography) on [GitHub](https://github.com/RedHatOfficial/RedHatFont) ⭐ 607 | 🐛 34 | 🌐 HTML | 📅 2026-04-28 by [MCKL](https://mckltype.com/red-hat)
@@ -415,7 +415,7 @@ The common typeface classifications are:
 
 ## Notable Free Fonts
 
-1. [IBM Plex](https://www.ibm.com/plex/) on [GitHub](https://github.com/IBM/plex) ⭐ 11,573 | 🐛 88 | 🌐 CSS | 📅 2026-07-30
+1. [IBM Plex](https://www.ibm.com/plex/) on [GitHub](https://github.com/IBM/plex) ⭐ 11,575 | 🐛 88 | 🌐 CSS | 📅 2026-07-30
 2. Mozilla's [Fira Type Family](https://mozilla.github.io/Fira/) on [GitHub](https://github.com/mozilla/Fira) ⚠️ Archived
 3. [London Underground Dot-Matrix Typeface](https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface) ⭐ 1,612 | 🐛 5 | 📅 2025-08-14
 4. Adobe's Source Type Family on [GitHub](https://github.com/adobe-fonts)
@@ -437,7 +437,7 @@ The common typeface classifications are:
 
 ## Fonts on GitHub (Excluding Google Fonts)
 
-1. [Open Runde](https://github.com/lauridskern/open-runde) ⭐ 1,496 | 🐛 12 | 📅 2026-07-25 rounded variant of Inter.
+1. [Open Runde](https://github.com/lauridskern/open-runde) ⭐ 1,497 | 🐛 12 | 📅 2026-07-25 rounded variant of Inter.
 2. [Overused Grotesk](https://github.com/RandomMaerks/Overused-Grotesk) ⭐ 783 | 🐛 5 | 🌐 Python | 📅 2026-03-28 - classic neo-grotesk Swiss design
 3. [Optician Sans](https://github.com/anewtypeofinterference/Optician-Sans) ⭐ 701 | 🐛 6 | 📅 2021-12-19 Typeface based on the historical eye charts and optotypes used by opticians world wide.
 4. [Open Sauce Fonts](https://github.com/marcologous/Open-Sauce-Fonts) ⭐ 693 | 🐛 11 | 🌐 HTML | 📅 2026-05-11 Creative Sauce's internal type super family.
@@ -460,10 +460,10 @@ The common typeface classifications are:
 
 ## Popular Fonts for Coding
 
-1. [Monocraft](https://github.com/IdreesInc/Monocraft) ⭐ 11,279 | 🐛 37 | 🌐 Python | 📅 2026-05-27 - Minecraft typeface
+1. [Monocraft](https://github.com/IdreesInc/Monocraft) ⭐ 11,281 | 🐛 37 | 🌐 Python | 📅 2026-05-27 - Minecraft typeface
 2. [Intel One Mono](https://github.com/intel/intel-one-mono) ⭐ 9,935 | 🐛 22 | 📅 2025-09-08
-3. [0xProto](https://github.com/0xType/0xProto) ⭐ 2,767 | 🐛 11 | 🌐 Python | 📅 2026-03-21
-4. [Miracode](https://github.com/IdreesInc/Miracode) ⭐ 1,359 | 🐛 15 | 🌐 Python | 📅 2025-08-05 Sharper Monocraft
+3. [0xProto](https://github.com/0xType/0xProto) ⭐ 2,769 | 🐛 11 | 🌐 Python | 📅 2026-03-21
+4. [Miracode](https://github.com/IdreesInc/Miracode) ⭐ 1,360 | 🐛 15 | 🌐 Python | 📅 2025-08-05 Sharper Monocraft
 5. [Agave](https://github.com/blobject/agave) ⭐ 1,051 | 🐛 23 | 🌐 Tcl | 📅 2026-06-20
 6. [Iosevka](https://typeof.net/Iosevka/)
 7. [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
@@ -494,7 +494,7 @@ The common typeface classifications are:
 
 ## Font Aggregators
 
-1. [Google Fonts](https://fonts.google.com/) font files on [GitHub](https://github.com/google/fonts/tree/main/ofl) ⭐ 20,377 | 🐛 1,402 | 🌐 HTML | 📅 2026-08-18
+1. [Google Fonts](https://fonts.google.com/) font files on [GitHub](https://github.com/google/fonts/tree/main/ofl) ⭐ 20,381 | 🐛 1,399 | 🌐 HTML | 📅 2026-08-18
 2. [Fontsource](https://fontsource.org/) 1695 families. NPM packages.
 3. [Online Web Fonts](https://www.onlinewebfonts.com/fonts) - font files from websites
 4. [Font Meme](https://fontmeme.com/) - Discover fonts used in popular culture.
@@ -664,4 +664,4 @@ Source: *Thinking with Type* by Ellen Lupton
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._

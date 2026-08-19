@@ -1,37 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Typeface Variants or Fonts"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Default Fonts"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Fonts in U.S. Elections"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Vox-ATypI Classification (Deprecated)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Typography Timeline"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Eras of Printing Technology"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -40,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 173314762,
             "language": "Shell",
             "last_commit": "2025-01-31T14:05:22Z",
             "owner": "JetBrains",
             "repo": "JetBrainsMono",
-            "stars": 12975
+            "stars": 12977
           }
         },
         {
@@ -54,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111826317,
             "language": null,
             "last_commit": "2023-06-16T16:21:57Z",
             "owner": "iaolo",
             "repo": "iA-Fonts",
-            "stars": 4135
+            "stars": 4136
           }
         },
         {
@@ -68,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 423600152,
             "language": "Python",
             "last_commit": "2026-07-05T03:40:35Z",
             "owner": "calcom",
@@ -82,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37227110,
             "language": null,
             "last_commit": "2017-03-01T04:14:14Z",
             "owner": "AppleDesignResources",
@@ -96,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 177630365,
             "language": "HTML",
             "last_commit": "2026-04-28T19:53:02Z",
             "owner": "RedHatOfficial",
@@ -110,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 689130301,
             "language": "Pug",
             "last_commit": "2025-06-09T02:11:49Z",
             "owner": "reddit",
@@ -124,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 558058697,
             "language": "Shell",
             "last_commit": "2022-11-17T21:52:07Z",
             "owner": "twilio",
@@ -138,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 406117473,
             "language": null,
             "last_commit": "2023-01-07T00:46:47Z",
             "owner": "intel",
@@ -152,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 181747106,
             "language": null,
             "last_commit": "2022-08-31T18:44:08Z",
             "owner": "hackernoon",
@@ -166,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 208065709,
             "language": "Python",
             "last_commit": "2026-08-05T06:55:31Z",
             "owner": "balsamiq",
@@ -180,24 +160,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 174516688,
             "language": null,
             "last_commit": "2019-02-25T11:34:27Z",
             "owner": "iyadh",
             "repo": "cereal-airbnb-font",
             "stars": 8
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Cisco Sans on GitHub",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Custom Corporate Fonts"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -206,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 242318453,
             "language": "Python",
             "last_commit": "2024-01-18T04:30:32Z",
             "owner": "tokotype",
@@ -220,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20929212,
             "language": null,
             "last_commit": "2015-09-04T05:49:22Z",
             "owner": "cooperhewitt",
@@ -234,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 265575431,
             "language": "Python",
             "last_commit": "2024-05-01T12:50:06Z",
             "owner": "sora-xor",
@@ -245,7 +223,7 @@
       "title": "Fonts by Government and Public Institutions"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -254,11 +232,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105702631,
             "language": "CSS",
             "last_commit": "2026-07-30T11:29:25Z",
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11573
+            "stars": 11575
           }
         },
         {
@@ -268,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 13042462,
             "language": "CSS",
             "last_commit": "2020-12-16T10:22:30Z",
             "owner": "mozilla",
@@ -282,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 231795055,
             "language": null,
             "last_commit": "2025-08-14T11:36:03Z",
             "owner": "petykowski",
@@ -293,7 +274,7 @@
       "title": "Notable Free Fonts"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -302,11 +283,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 671107274,
             "language": null,
             "last_commit": "2026-07-25T15:28:04Z",
             "owner": "lauridskern",
             "repo": "open-runde",
-            "stars": 1496
+            "stars": 1497
           }
         },
         {
@@ -316,6 +298,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 671886356,
             "language": "Python",
             "last_commit": "2026-03-28T12:17:24Z",
             "owner": "RandomMaerks",
@@ -330,6 +313,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162098017,
             "language": null,
             "last_commit": "2021-12-19T01:29:00Z",
             "owner": "anewtypeofinterference",
@@ -344,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 252175252,
             "language": "HTML",
             "last_commit": "2026-05-11T21:22:36Z",
             "owner": "marcologous",
@@ -358,6 +343,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 524155019,
             "language": "CSS",
             "last_commit": "2025-05-09T11:00:55Z",
             "owner": "ivodolenc",
@@ -372,6 +358,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 524155019,
             "language": "CSS",
             "last_commit": "2025-05-09T11:00:55Z",
             "owner": "ivodolenc",
@@ -386,6 +373,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9905365,
             "language": "Python",
             "last_commit": "2026-05-19T12:03:20Z",
             "owner": "noirblancrouge",
@@ -400,6 +388,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 619461541,
             "language": "CSS",
             "last_commit": "2024-05-27T12:07:41Z",
             "owner": "wanteddev",
@@ -414,6 +403,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 391069183,
             "language": "TypeScript",
             "last_commit": "2023-03-06T08:52:27Z",
             "owner": "basementstudio",
@@ -428,6 +418,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 392672777,
             "language": "Python",
             "last_commit": "2024-01-02T12:58:05Z",
             "owner": "Outfitio",
@@ -442,6 +433,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 186690268,
             "language": null,
             "last_commit": "2019-08-19T23:09:49Z",
             "owner": "somefreefonts",
@@ -456,6 +448,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62373892,
             "language": "Python",
             "last_commit": "2020-12-14T20:47:28Z",
             "owner": "ctrlcctrlv",
@@ -470,6 +463,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7667637,
             "language": "Python",
             "last_commit": "2025-02-14T21:13:42Z",
             "owner": "noirblancrouge",
@@ -484,6 +478,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114482038,
             "language": null,
             "last_commit": "2019-10-04T15:44:05Z",
             "owner": "somefreefonts",
@@ -498,6 +493,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 232574611,
             "language": null,
             "last_commit": "2020-12-27T03:01:43Z",
             "owner": "EthanNakache",
@@ -512,6 +508,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88622510,
             "language": null,
             "last_commit": "2019-05-28T13:26:02Z",
             "owner": "Fontself",
@@ -526,6 +523,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131885592,
             "language": "Makefile",
             "last_commit": "2021-08-13T08:17:11Z",
             "owner": "tokotype",
@@ -540,6 +538,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 572835710,
             "language": "Python",
             "last_commit": "2026-06-04T23:28:57Z",
             "owner": "StefanPeev",
@@ -554,6 +553,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 477168434,
             "language": "Python",
             "last_commit": "2022-04-24T06:59:16Z",
             "owner": "typehaus",
@@ -565,7 +565,7 @@
       "title": "Fonts on GitHub (Excluding Google Fonts)"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -574,11 +574,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 522358431,
             "language": "Python",
             "last_commit": "2026-05-27T21:49:03Z",
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11279
+            "stars": 11281
           }
         },
         {
@@ -588,6 +589,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 626613254,
             "language": null,
             "last_commit": "2025-09-08T22:22:24Z",
             "owner": "intel",
@@ -602,11 +604,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 637255192,
             "language": "Python",
             "last_commit": "2026-03-21T10:01:37Z",
             "owner": "0xType",
             "repo": "0xProto",
-            "stars": 2767
+            "stars": 2769
           }
         },
         {
@@ -616,11 +619,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 752768485,
             "language": "Python",
             "last_commit": "2025-08-05T21:13:43Z",
             "owner": "IdreesInc",
             "repo": "Miracode",
-            "stars": 1359
+            "stars": 1360
           }
         },
         {
@@ -630,6 +634,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45587374,
             "language": "Tcl",
             "last_commit": "2026-06-20T16:03:38Z",
             "owner": "blobject",
@@ -642,8 +647,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:44:18.207Z",
+    "last_updated": "2026-08-19T12:57:56.591Z",
     "original_repository": "subidit/typophilia",
+    "original_repository_id": 725469813,
     "original_repository_sha": "8727cda05dc8f2573a17156bb9661d3aa5da4dac",
     "enhanced_repository": "enhansome/enhansome-typophilia",
     "enhanced_repository_description": null,
