@@ -15,7 +15,7 @@
             "last_commit": "2025-01-31T14:05:22Z",
             "owner": "JetBrains",
             "repo": "JetBrainsMono",
-            "stars": 12980
+            "stars": 12978
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2026-07-30T11:29:25Z",
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11578
+            "stars": 11582
           }
         },
         {
@@ -288,7 +288,7 @@
             "last_commit": "2026-07-25T15:28:04Z",
             "owner": "lauridskern",
             "repo": "open-runde",
-            "stars": 1502
+            "stars": 1504
           }
         },
         {
@@ -594,7 +594,7 @@
             "last_commit": "2025-09-08T22:22:24Z",
             "owner": "intel",
             "repo": "intel-one-mono",
-            "stars": 9934
+            "stars": 9933
           }
         },
         {
@@ -609,7 +609,7 @@
             "last_commit": "2026-03-21T10:01:37Z",
             "owner": "0xType",
             "repo": "0xProto",
-            "stars": 2775
+            "stars": 2773
           }
         },
         {
@@ -647,7 +647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T19:49:20.240Z",
+    "last_updated": "2026-08-21T19:42:19.903Z",
     "original_repository": "subidit/typophilia",
     "original_repository_id": 725469813,
     "original_repository_sha": "8727cda05dc8f2573a17156bb9661d3aa5da4dac",
