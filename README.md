@@ -402,7 +402,7 @@ The common typeface classifications are:
 
 ## Fonts by Government and Public Institutions
 
-1. [+Jakarta Sans](https://github.com/tokotype/PlusJakartaSans) ⭐ 1,089 | 🐛 22 | 🌐 Python | 📅 2024-01-18
+1. [+Jakarta Sans](https://github.com/tokotype/PlusJakartaSans) ⭐ 1,090 | 🐛 22 | 🌐 Python | 📅 2024-01-18
 2. [Cooper Hewitt](https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/) from Smithsonian Design Musium on [GitHub](https://github.com/cooperhewitt/cooperhewitt-typeface) ⭐ 426 | 🐛 11 | 📅 2015-09-04
 3. [SORA typeface](https://github.com/sora-xor/sora-font) ⭐ 179 | 🐛 7 | 🌐 Python | 📅 2024-05-01 - neutral sans serif typeface
 4. [Public Sans](https://public-sans.digital.gov/) by U.S. Web Design System ([USWDS](https://designsystem.digital.gov/))
@@ -415,7 +415,7 @@ The common typeface classifications are:
 
 ## Notable Free Fonts
 
-1. [IBM Plex](https://www.ibm.com/plex/) on [GitHub](https://github.com/IBM/plex) ⭐ 11,585 | 🐛 80 | 🌐 CSS | 📅 2026-07-30
+1. [IBM Plex](https://www.ibm.com/plex/) on [GitHub](https://github.com/IBM/plex) ⭐ 11,586 | 🐛 80 | 🌐 CSS | 📅 2026-07-30
 2. Mozilla's [Fira Type Family](https://mozilla.github.io/Fira/) on [GitHub](https://github.com/mozilla/Fira) ⚠️ Archived
 3. [London Underground Dot-Matrix Typeface](https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface) ⭐ 1,613 | 🐛 5 | 📅 2025-08-14
 4. Adobe's Source Type Family on [GitHub](https://github.com/adobe-fonts)
@@ -437,7 +437,7 @@ The common typeface classifications are:
 
 ## Fonts on GitHub (Excluding Google Fonts)
 
-1. [Open Runde](https://github.com/lauridskern/open-runde) ⭐ 1,506 | 🐛 12 | 📅 2026-07-25 rounded variant of Inter.
+1. [Open Runde](https://github.com/lauridskern/open-runde) ⭐ 1,507 | 🐛 12 | 📅 2026-07-25 rounded variant of Inter.
 2. [Overused Grotesk](https://github.com/RandomMaerks/Overused-Grotesk) ⭐ 783 | 🐛 4 | 🌐 Python | 📅 2026-03-28 - classic neo-grotesk Swiss design
 3. [Optician Sans](https://github.com/anewtypeofinterference/Optician-Sans) ⭐ 701 | 🐛 6 | 📅 2021-12-19 Typeface based on the historical eye charts and optotypes used by opticians world wide.
 4. [Open Sauce Fonts](https://github.com/marcologous/Open-Sauce-Fonts) ⭐ 693 | 🐛 11 | 🌐 HTML | 📅 2026-05-11 Creative Sauce's internal type super family.
@@ -460,10 +460,10 @@ The common typeface classifications are:
 
 ## Popular Fonts for Coding
 
-1. [Monocraft](https://github.com/IdreesInc/Monocraft) ⭐ 11,287 | 🐛 37 | 🌐 Python | 📅 2026-05-27 - Minecraft typeface
+1. [Monocraft](https://github.com/IdreesInc/Monocraft) ⭐ 11,291 | 🐛 37 | 🌐 Python | 📅 2026-05-27 - Minecraft typeface
 2. [Intel One Mono](https://github.com/intel/intel-one-mono) ⭐ 9,933 | 🐛 22 | 📅 2025-09-08
-3. [0xProto](https://github.com/0xType/0xProto) ⭐ 2,773 | 🐛 11 | 🌐 Python | 📅 2026-03-21
-4. [Miracode](https://github.com/IdreesInc/Miracode) ⭐ 1,361 | 🐛 15 | 🌐 Python | 📅 2025-08-05 Sharper Monocraft
+3. [0xProto](https://github.com/0xType/0xProto) ⭐ 2,804 | 🐛 11 | 🌐 Python | 📅 2026-03-21
+4. [Miracode](https://github.com/IdreesInc/Miracode) ⭐ 1,363 | 🐛 15 | 🌐 Python | 📅 2025-08-05 Sharper Monocraft
 5. [Agave](https://github.com/blobject/agave) ⭐ 1,051 | 🐛 23 | 🌐 Tcl | 📅 2026-06-20
 6. [Iosevka](https://typeof.net/Iosevka/)
 7. [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
@@ -494,7 +494,7 @@ The common typeface classifications are:
 
 ## Font Aggregators
 
-1. [Google Fonts](https://fonts.google.com/) font files on [GitHub](https://github.com/google/fonts/tree/main/ofl) ⭐ 20,397 | 🐛 1,404 | 🌐 HTML | 📅 2026-08-21
+1. [Google Fonts](https://fonts.google.com/) font files on [GitHub](https://github.com/google/fonts/tree/main/ofl) ⭐ 20,400 | 🐛 1,404 | 🌐 HTML | 📅 2026-08-21
 2. [Fontsource](https://fontsource.org/) 1695 families. NPM packages.
 3. [Online Web Fonts](https://www.onlinewebfonts.com/fonts) - font files from websites
 4. [Font Meme](https://fontmeme.com/) - Discover fonts used in popular culture.
@@ -664,4 +664,4 @@ Source: *Thinking with Type* by Ellen Lupton
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
