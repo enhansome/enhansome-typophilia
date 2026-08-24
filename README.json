@@ -30,7 +30,7 @@
             "last_commit": "2023-06-16T16:21:57Z",
             "owner": "iaolo",
             "repo": "iA-Fonts",
-            "stars": 4136
+            "stars": 4137
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2025-06-09T02:11:49Z",
             "owner": "reddit",
             "repo": "redditsans",
-            "stars": 463
+            "stars": 464
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2026-07-30T11:29:25Z",
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11586
+            "stars": 11590
           }
         },
         {
@@ -288,7 +288,7 @@
             "last_commit": "2026-07-25T15:28:04Z",
             "owner": "lauridskern",
             "repo": "open-runde",
-            "stars": 1507
+            "stars": 1508
           }
         },
         {
@@ -348,7 +348,7 @@
             "last_commit": "2025-05-09T11:00:55Z",
             "owner": "ivodolenc",
             "repo": "aspekta",
-            "stars": 533
+            "stars": 536
           }
         },
         {
@@ -363,7 +363,7 @@
             "last_commit": "2025-05-09T11:00:55Z",
             "owner": "ivodolenc",
             "repo": "aspekta",
-            "stars": 533
+            "stars": 536
           }
         },
         {
@@ -579,7 +579,7 @@
             "last_commit": "2026-05-27T21:49:03Z",
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11291
+            "stars": 11293
           }
         },
         {
@@ -609,7 +609,7 @@
             "last_commit": "2026-03-21T10:01:37Z",
             "owner": "0xType",
             "repo": "0xProto",
-            "stars": 2804
+            "stars": 2839
           }
         },
         {
@@ -624,7 +624,7 @@
             "last_commit": "2025-08-05T21:13:43Z",
             "owner": "IdreesInc",
             "repo": "Miracode",
-            "stars": 1363
+            "stars": 1364
           }
         },
         {
@@ -647,7 +647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:40:03.185Z",
+    "last_updated": "2026-08-24T14:38:48.786Z",
     "original_repository": "subidit/typophilia",
     "original_repository_id": 725469813,
     "original_repository_sha": "8727cda05dc8f2573a17156bb9661d3aa5da4dac",
