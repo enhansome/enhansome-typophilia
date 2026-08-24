@@ -353,7 +353,7 @@ The common typeface classifications are:
 
 ## Custom Corporate Fonts
 
-1. [JetBrains Mono](https://www.jetbrains.com/lp/mono/) on [GitHub](https://github.com/JetBrains/JetBrainsMono) ⭐ 12,977 | 🐛 204 | 🌐 Shell | 📅 2025-01-31
+1. [JetBrains Mono](https://www.jetbrains.com/lp/mono/) on [GitHub](https://github.com/JetBrains/JetBrainsMono) ⭐ 12,976 | 🐛 205 | 🌐 Shell | 📅 2025-01-31
 2. [iA-Fonts](https://ia.net/topics/a-typographic-christmas) on [GitHub](https://github.com/iaolo/iA-Fonts) ⭐ 4,137 | 🐛 11 | 📅 2023-06-16
 3. [Cal Sans](https://github.com/calcom/font) ⭐ 1,606 | 🐛 7 | 🌐 Python | 📅 2026-07-05 used by cal.com
 4. Apple's [San Francisco](https://developer.apple.com/fonts/) on [GitHub](https://github.com/AppleDesignResources/SanFranciscoFont) ⭐ 1,087 | 🐛 7 | 📅 2017-03-01
@@ -415,7 +415,7 @@ The common typeface classifications are:
 
 ## Notable Free Fonts
 
-1. [IBM Plex](https://www.ibm.com/plex/) on [GitHub](https://github.com/IBM/plex) ⭐ 11,590 | 🐛 80 | 🌐 CSS | 📅 2026-07-30
+1. [IBM Plex](https://www.ibm.com/plex/) on [GitHub](https://github.com/IBM/plex) ⭐ 11,592 | 🐛 80 | 🌐 CSS | 📅 2026-07-30
 2. Mozilla's [Fira Type Family](https://mozilla.github.io/Fira/) on [GitHub](https://github.com/mozilla/Fira) ⚠️ Archived
 3. [London Underground Dot-Matrix Typeface](https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface) ⭐ 1,613 | 🐛 5 | 📅 2025-08-14
 4. Adobe's Source Type Family on [GitHub](https://github.com/adobe-fonts)
@@ -462,7 +462,7 @@ The common typeface classifications are:
 
 1. [Monocraft](https://github.com/IdreesInc/Monocraft) ⭐ 11,293 | 🐛 37 | 🌐 Python | 📅 2026-05-27 - Minecraft typeface
 2. [Intel One Mono](https://github.com/intel/intel-one-mono) ⭐ 9,933 | 🐛 22 | 📅 2025-09-08
-3. [0xProto](https://github.com/0xType/0xProto) ⭐ 2,839 | 🐛 11 | 🌐 Python | 📅 2026-03-21
+3. [0xProto](https://github.com/0xType/0xProto) ⭐ 2,848 | 🐛 11 | 🌐 Python | 📅 2026-03-21
 4. [Miracode](https://github.com/IdreesInc/Miracode) ⭐ 1,364 | 🐛 15 | 🌐 Python | 📅 2025-08-05 Sharper Monocraft
 5. [Agave](https://github.com/blobject/agave) ⭐ 1,051 | 🐛 23 | 🌐 Tcl | 📅 2026-06-20
 6. [Iosevka](https://typeof.net/Iosevka/)
