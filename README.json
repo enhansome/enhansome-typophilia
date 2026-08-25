@@ -15,7 +15,7 @@
             "last_commit": "2025-01-31T14:05:22Z",
             "owner": "JetBrains",
             "repo": "JetBrainsMono",
-            "stars": 12976
+            "stars": 12977
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2024-05-01T12:50:06Z",
             "owner": "sora-xor",
             "repo": "sora-font",
-            "stars": 179
+            "stars": 180
           }
         }
       ],
@@ -237,7 +237,7 @@
             "last_commit": "2026-07-30T11:29:25Z",
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11592
+            "stars": 11594
           }
         },
         {
@@ -288,7 +288,7 @@
             "last_commit": "2026-07-25T15:28:04Z",
             "owner": "lauridskern",
             "repo": "open-runde",
-            "stars": 1508
+            "stars": 1510
           }
         },
         {
@@ -348,7 +348,7 @@
             "last_commit": "2025-05-09T11:00:55Z",
             "owner": "ivodolenc",
             "repo": "aspekta",
-            "stars": 536
+            "stars": 537
           }
         },
         {
@@ -363,7 +363,7 @@
             "last_commit": "2025-05-09T11:00:55Z",
             "owner": "ivodolenc",
             "repo": "aspekta",
-            "stars": 536
+            "stars": 537
           }
         },
         {
@@ -579,7 +579,7 @@
             "last_commit": "2026-05-27T21:49:03Z",
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11293
+            "stars": 11294
           }
         },
         {
@@ -609,7 +609,7 @@
             "last_commit": "2026-03-21T10:01:37Z",
             "owner": "0xType",
             "repo": "0xProto",
-            "stars": 2848
+            "stars": 2852
           }
         },
         {
@@ -647,7 +647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T19:48:34.933Z",
+    "last_updated": "2026-08-25T06:32:30.059Z",
     "original_repository": "subidit/typophilia",
     "original_repository_id": 725469813,
     "original_repository_sha": "8727cda05dc8f2573a17156bb9661d3aa5da4dac",
