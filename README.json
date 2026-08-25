@@ -15,7 +15,7 @@
             "last_commit": "2025-01-31T14:05:22Z",
             "owner": "JetBrains",
             "repo": "JetBrainsMono",
-            "stars": 12977
+            "stars": 12976
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2023-06-16T16:21:57Z",
             "owner": "iaolo",
             "repo": "iA-Fonts",
-            "stars": 4137
+            "stars": 4138
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-07-05T03:40:35Z",
             "owner": "calcom",
             "repo": "sans",
-            "stars": 1606
+            "stars": 1607
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2022-11-17T21:52:07Z",
             "owner": "twilio",
             "repo": "twilio-sans-mono",
-            "stars": 310
+            "stars": 311
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2026-07-30T11:29:25Z",
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11594
+            "stars": 11595
           }
         },
         {
@@ -288,7 +288,7 @@
             "last_commit": "2026-07-25T15:28:04Z",
             "owner": "lauridskern",
             "repo": "open-runde",
-            "stars": 1510
+            "stars": 1511
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2021-12-19T01:29:00Z",
             "owner": "anewtypeofinterference",
             "repo": "Optician-Sans",
-            "stars": 701
+            "stars": 702
           }
         },
         {
@@ -333,7 +333,7 @@
             "last_commit": "2026-05-11T21:22:36Z",
             "owner": "marcologous",
             "repo": "Open-Sauce-Fonts",
-            "stars": 693
+            "stars": 694
           }
         },
         {
@@ -498,7 +498,7 @@
             "last_commit": "2020-12-27T03:01:43Z",
             "owner": "EthanNakache",
             "repo": "Sprat-type",
-            "stars": 96
+            "stars": 97
           }
         },
         {
@@ -579,7 +579,7 @@
             "last_commit": "2026-05-27T21:49:03Z",
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11294
+            "stars": 11293
           }
         },
         {
@@ -594,7 +594,7 @@
             "last_commit": "2025-09-08T22:22:24Z",
             "owner": "intel",
             "repo": "intel-one-mono",
-            "stars": 9933
+            "stars": 9934
           }
         },
         {
@@ -609,7 +609,7 @@
             "last_commit": "2026-03-21T10:01:37Z",
             "owner": "0xType",
             "repo": "0xProto",
-            "stars": 2852
+            "stars": 2856
           }
         },
         {
@@ -647,7 +647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:32:30.059Z",
+    "last_updated": "2026-08-25T19:48:57.196Z",
     "original_repository": "subidit/typophilia",
     "original_repository_id": 725469813,
     "original_repository_sha": "8727cda05dc8f2573a17156bb9661d3aa5da4dac",
