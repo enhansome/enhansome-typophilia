@@ -15,7 +15,7 @@
             "last_commit": "2025-01-31T14:05:22Z",
             "owner": "JetBrains",
             "repo": "JetBrainsMono",
-            "stars": 12981
+            "stars": 12983
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2026-07-30T11:29:25Z",
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11601
+            "stars": 11602
           }
         },
         {
@@ -303,7 +303,7 @@
             "last_commit": "2026-03-28T12:17:24Z",
             "owner": "RandomMaerks",
             "repo": "Overused-Grotesk",
-            "stars": 784
+            "stars": 785
           }
         },
         {
@@ -579,7 +579,7 @@
             "last_commit": "2026-05-27T21:49:03Z",
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11294
+            "stars": 11295
           }
         },
         {
@@ -624,7 +624,7 @@
             "last_commit": "2025-08-05T21:13:43Z",
             "owner": "IdreesInc",
             "repo": "Miracode",
-            "stars": 1365
+            "stars": 1366
           }
         },
         {
@@ -647,9 +647,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T22:18:43.961Z",
-    "original_repository": "subidit/typophilia",
-    "original_repository_id": 725469813,
+    "last_updated": "2026-08-27T12:06:56.011Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 725469813,
+      "language": null,
+      "last_commit": "2025-04-07T06:12:08Z",
+      "owner": "subidit",
+      "repo": "typophilia",
+      "stars": 119
+    },
     "original_repository_sha": "8727cda05dc8f2573a17156bb9661d3aa5da4dac",
     "enhanced_repository": "enhansome/enhansome-typophilia",
     "enhanced_repository_description": null,
