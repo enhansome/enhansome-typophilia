@@ -19,7 +19,7 @@
             "open_issues": 206,
             "owner": "JetBrains",
             "repo": "JetBrainsMono",
-            "stars": 12998,
+            "stars": 13001,
             "topics": [
               "coding-font",
               "font",
@@ -47,7 +47,7 @@
             "open_issues": 11,
             "owner": "iaolo",
             "repo": "iA-Fonts",
-            "stars": 4151,
+            "stars": 4154,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -64,11 +64,11 @@
             "id": 423600152,
             "language": "Python",
             "license": "OFL-1.1",
-            "last_commit": "2026-08-26T09:04:42Z",
+            "last_commit": "2026-08-31T18:56:43Z",
             "open_issues": 3,
             "owner": "calcom",
             "repo": "sans",
-            "stars": 1609,
+            "stars": 1610,
             "topics": [
               "cal-sans",
               "design",
@@ -116,7 +116,7 @@
             "open_issues": 34,
             "owner": "RedHatOfficial",
             "repo": "RedHatFont",
-            "stars": 606,
+            "stars": 608,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -137,7 +137,7 @@
             "open_issues": 5,
             "owner": "reddit",
             "repo": "redditsans",
-            "stars": 464,
+            "stars": 465,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -352,7 +352,7 @@
             "open_issues": 80,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11614,
+            "stars": 11613,
             "topics": [
               "design",
               "font",
@@ -434,7 +434,7 @@
             "open_issues": 12,
             "owner": "lauridskern",
             "repo": "open-runde",
-            "stars": 1526,
+            "stars": 1528,
             "topics": [
               "design",
               "font",
@@ -459,7 +459,7 @@
             "open_issues": 4,
             "owner": "RandomMaerks",
             "repo": "Overused-Grotesk",
-            "stars": 787,
+            "stars": 788,
             "topics": [
               "font",
               "grotesk",
@@ -515,7 +515,7 @@
             "open_issues": 11,
             "owner": "marcologous",
             "repo": "Open-Sauce-Fonts",
-            "stars": 694,
+            "stars": 695,
             "topics": [
               "alfredo-marco-pradil",
               "fonts",
@@ -967,7 +967,7 @@
             "open_issues": 37,
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11315,
+            "stars": 11316,
             "topics": [
               "font",
               "fonts",
@@ -1016,7 +1016,7 @@
             "open_issues": 11,
             "owner": "0xType",
             "repo": "0xProto",
-            "stars": 2865,
+            "stars": 2868,
             "topics": [
               "design",
               "font",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T21:55:33.663Z",
+    "last_updated": "2026-08-31T23:14:23.549Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",
