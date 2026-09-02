@@ -19,7 +19,7 @@
             "open_issues": 206,
             "owner": "JetBrains",
             "repo": "JetBrainsMono",
-            "stars": 13006,
+            "stars": 13008,
             "topics": [
               "coding-font",
               "font",
@@ -64,8 +64,8 @@
             "id": 423600152,
             "language": "Python",
             "license": "OFL-1.1",
-            "last_commit": "2026-08-31T18:56:43Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-01T23:02:23Z",
+            "open_issues": 4,
             "owner": "calcom",
             "repo": "sans",
             "stars": 1611,
@@ -116,7 +116,7 @@
             "open_issues": 34,
             "owner": "RedHatOfficial",
             "repo": "RedHatFont",
-            "stars": 608,
+            "stars": 609,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -137,7 +137,7 @@
             "open_issues": 5,
             "owner": "reddit",
             "repo": "redditsans",
-            "stars": 465,
+            "stars": 464,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -220,11 +220,11 @@
             "id": 208065709,
             "language": "Python",
             "license": "OFL-1.1",
-            "last_commit": "2026-08-05T06:55:31Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-01T22:21:09Z",
+            "open_issues": 2,
             "owner": "balsamiq",
             "repo": "balsamiqsans",
-            "stars": 39,
+            "stars": 40,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -272,7 +272,7 @@
             "open_issues": 22,
             "owner": "tokotype",
             "repo": "PlusJakartaSans",
-            "stars": 1091,
+            "stars": 1092,
             "topics": [
               "font",
               "ofl",
@@ -352,7 +352,7 @@
             "open_issues": 80,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11614,
+            "stars": 11616,
             "topics": [
               "design",
               "font",
@@ -602,7 +602,7 @@
             "open_issues": 0,
             "owner": "noirblancrouge",
             "repo": "YoungSerif",
-            "stars": 470,
+            "stars": 471,
             "topics": [
               "font",
               "fonts",
@@ -629,7 +629,7 @@
             "open_issues": 4,
             "owner": "wanteddev",
             "repo": "wanted-sans",
-            "stars": 354,
+            "stars": 355,
             "topics": [
               "font",
               "fonts",
@@ -967,7 +967,7 @@
             "open_issues": 37,
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11317,
+            "stars": 11316,
             "topics": [
               "font",
               "fonts",
@@ -1016,7 +1016,7 @@
             "open_issues": 11,
             "owner": "0xType",
             "repo": "0xProto",
-            "stars": 2869,
+            "stars": 2873,
             "topics": [
               "design",
               "font",
@@ -1042,7 +1042,7 @@
             "open_issues": 16,
             "owner": "IdreesInc",
             "repo": "Miracode",
-            "stars": 1368,
+            "stars": 1369,
             "topics": [
               "font",
               "fonts",
@@ -1069,7 +1069,7 @@
             "open_issues": 23,
             "owner": "blobject",
             "repo": "agave",
-            "stars": 1054,
+            "stars": 1055,
             "topics": [
               "font",
               "monospace",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T21:50:36.603Z",
+    "last_updated": "2026-09-02T21:52:41.547Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",
