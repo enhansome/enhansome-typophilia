@@ -19,7 +19,7 @@
             "open_issues": 206,
             "owner": "JetBrains",
             "repo": "JetBrainsMono",
-            "stars": 13022,
+            "stars": 13023,
             "topics": [
               "coding-font",
               "font",
@@ -64,7 +64,7 @@
             "id": 423600152,
             "language": "Python",
             "license": "OFL-1.1",
-            "last_commit": "2026-09-05T22:18:46Z",
+            "last_commit": "2026-09-07T00:31:15Z",
             "open_issues": 5,
             "owner": "calcom",
             "repo": "sans",
@@ -272,7 +272,7 @@
             "open_issues": 22,
             "owner": "tokotype",
             "repo": "PlusJakartaSans",
-            "stars": 1095,
+            "stars": 1098,
             "topics": [
               "font",
               "ofl",
@@ -352,7 +352,7 @@
             "open_issues": 80,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11623,
+            "stars": 11628,
             "topics": [
               "design",
               "font",
@@ -434,7 +434,7 @@
             "open_issues": 12,
             "owner": "lauridskern",
             "repo": "open-runde",
-            "stars": 1532,
+            "stars": 1534,
             "topics": [
               "design",
               "font",
@@ -542,7 +542,7 @@
             "open_issues": 0,
             "owner": "ivodolenc",
             "repo": "aspekta",
-            "stars": 542,
+            "stars": 543,
             "topics": [
               "aspekta",
               "collection",
@@ -572,7 +572,7 @@
             "open_issues": 0,
             "owner": "ivodolenc",
             "repo": "aspekta",
-            "stars": 542,
+            "stars": 543,
             "topics": [
               "aspekta",
               "collection",
@@ -846,7 +846,7 @@
             "open_issues": 4,
             "owner": "Fontself",
             "repo": "TypeWithPride",
-            "stars": 89,
+            "stars": 90,
             "topics": [
               "color",
               "colorfont",
@@ -967,7 +967,7 @@
             "open_issues": 37,
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11322,
+            "stars": 11323,
             "topics": [
               "font",
               "fonts",
@@ -985,17 +985,17 @@
           "description": null,
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Intel One Mono font repository",
             "homepage": null,
             "id": 626613254,
             "language": null,
             "license": "OFL-1.1",
-            "last_commit": "2025-09-08T22:22:24Z",
+            "last_commit": "2026-09-07T18:18:33Z",
             "open_issues": 22,
             "owner": "intel",
             "repo": "intel-one-mono",
-            "stars": 9935,
+            "stars": 9936,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -1016,7 +1016,7 @@
             "open_issues": 11,
             "owner": "0xType",
             "repo": "0xProto",
-            "stars": 2878,
+            "stars": 2880,
             "topics": [
               "design",
               "font",
@@ -1069,7 +1069,7 @@
             "open_issues": 23,
             "owner": "blobject",
             "repo": "agave",
-            "stars": 1056,
+            "stars": 1057,
             "topics": [
               "font",
               "monospace",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T21:25:59.931Z",
+    "last_updated": "2026-09-07T22:05:36.354Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",
