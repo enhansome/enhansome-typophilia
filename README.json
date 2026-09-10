@@ -68,7 +68,7 @@
             "open_issues": 5,
             "owner": "calcom",
             "repo": "sans",
-            "stars": 1612,
+            "stars": 1613,
             "topics": [
               "cal-sans",
               "design",
@@ -352,7 +352,7 @@
             "open_issues": 82,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11633,
+            "stars": 11636,
             "topics": [
               "design",
               "font",
@@ -434,7 +434,7 @@
             "open_issues": 12,
             "owner": "lauridskern",
             "repo": "open-runde",
-            "stars": 1536,
+            "stars": 1537,
             "topics": [
               "design",
               "font",
@@ -459,7 +459,7 @@
             "open_issues": 4,
             "owner": "RandomMaerks",
             "repo": "Overused-Grotesk",
-            "stars": 789,
+            "stars": 790,
             "topics": [
               "font",
               "grotesk",
@@ -490,7 +490,7 @@
             "open_issues": 6,
             "owner": "anewtypeofinterference",
             "repo": "Optician-Sans",
-            "stars": 702,
+            "stars": 703,
             "topics": [
               "font",
               "opticians",
@@ -542,7 +542,7 @@
             "open_issues": 0,
             "owner": "ivodolenc",
             "repo": "aspekta",
-            "stars": 543,
+            "stars": 544,
             "topics": [
               "aspekta",
               "collection",
@@ -572,7 +572,7 @@
             "open_issues": 0,
             "owner": "ivodolenc",
             "repo": "aspekta",
-            "stars": 543,
+            "stars": 544,
             "topics": [
               "aspekta",
               "collection",
@@ -679,7 +679,7 @@
             "open_issues": 13,
             "owner": "Outfitio",
             "repo": "Outfit-Fonts",
-            "stars": 324,
+            "stars": 325,
             "topics": [
               "font",
               "geometric",
@@ -967,7 +967,7 @@
             "open_issues": 37,
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11331,
+            "stars": 11332,
             "topics": [
               "font",
               "fonts",
@@ -985,17 +985,17 @@
           "description": null,
           "children": [],
           "repo_info": {
-            "archived": true,
+            "archived": false,
             "description": "Intel One Mono font repository",
             "homepage": null,
             "id": 626613254,
             "language": null,
             "license": "OFL-1.1",
-            "last_commit": "2026-09-07T18:18:33Z",
+            "last_commit": "2026-09-09T22:19:30Z",
             "open_issues": 22,
             "owner": "intel",
             "repo": "intel-one-mono",
-            "stars": 9934,
+            "stars": 9935,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -1016,7 +1016,7 @@
             "open_issues": 12,
             "owner": "0xType",
             "repo": "0xProto",
-            "stars": 2879,
+            "stars": 2881,
             "topics": [
               "design",
               "font",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T21:45:11.745Z",
+    "last_updated": "2026-09-10T21:41:22.535Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",
