@@ -68,7 +68,7 @@
             "open_issues": 5,
             "owner": "calcom",
             "repo": "sans",
-            "stars": 1613,
+            "stars": 1615,
             "topics": [
               "cal-sans",
               "design",
@@ -116,7 +116,7 @@
             "open_issues": 34,
             "owner": "RedHatOfficial",
             "repo": "RedHatFont",
-            "stars": 612,
+            "stars": 613,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -272,7 +272,7 @@
             "open_issues": 22,
             "owner": "tokotype",
             "repo": "PlusJakartaSans",
-            "stars": 1099,
+            "stars": 1101,
             "topics": [
               "font",
               "ofl",
@@ -352,7 +352,7 @@
             "open_issues": 82,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11636,
+            "stars": 11638,
             "topics": [
               "design",
               "font",
@@ -434,7 +434,7 @@
             "open_issues": 12,
             "owner": "lauridskern",
             "repo": "open-runde",
-            "stars": 1537,
+            "stars": 1538,
             "topics": [
               "design",
               "font",
@@ -874,7 +874,7 @@
             "open_issues": 3,
             "owner": "tokotype",
             "repo": "Mohave-Typefaces",
-            "stars": 59,
+            "stars": 60,
             "topics": [
               "fonts",
               "typeface"
@@ -967,7 +967,7 @@
             "open_issues": 37,
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11332,
+            "stars": 11337,
             "topics": [
               "font",
               "fonts",
@@ -1016,7 +1016,7 @@
             "open_issues": 12,
             "owner": "0xType",
             "repo": "0xProto",
-            "stars": 2881,
+            "stars": 2882,
             "topics": [
               "design",
               "font",
@@ -1042,7 +1042,7 @@
             "open_issues": 16,
             "owner": "IdreesInc",
             "repo": "Miracode",
-            "stars": 1370,
+            "stars": 1373,
             "topics": [
               "font",
               "fonts",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T21:41:22.535Z",
+    "last_updated": "2026-09-11T21:46:33.131Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",
