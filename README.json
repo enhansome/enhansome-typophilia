@@ -47,7 +47,7 @@
             "open_issues": 11,
             "owner": "iaolo",
             "repo": "iA-Fonts",
-            "stars": 4155,
+            "stars": 4154,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -95,7 +95,7 @@
             "open_issues": 7,
             "owner": "AppleDesignResources",
             "repo": "SanFranciscoFont",
-            "stars": 1088,
+            "stars": 1089,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -182,7 +182,7 @@
             "open_issues": 2,
             "owner": "intel",
             "repo": "clear-sans",
-            "stars": 175,
+            "stars": 176,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -349,7 +349,7 @@
             "language": "CSS",
             "license": "OFL-1.1",
             "last_commit": "2026-09-09T16:01:00Z",
-            "open_issues": 82,
+            "open_issues": 83,
             "owner": "IBM",
             "repo": "plex",
             "stars": 11638,
@@ -602,7 +602,7 @@
             "open_issues": 0,
             "owner": "noirblancrouge",
             "repo": "YoungSerif",
-            "stars": 471,
+            "stars": 472,
             "topics": [
               "font",
               "fonts",
@@ -629,7 +629,7 @@
             "open_issues": 4,
             "owner": "wanteddev",
             "repo": "wanted-sans",
-            "stars": 357,
+            "stars": 358,
             "topics": [
               "font",
               "fonts",
@@ -967,7 +967,7 @@
             "open_issues": 37,
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11337,
+            "stars": 11341,
             "topics": [
               "font",
               "fonts",
@@ -995,7 +995,7 @@
             "open_issues": 22,
             "owner": "intel",
             "repo": "intel-one-mono",
-            "stars": 9935,
+            "stars": 9953,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -1016,7 +1016,7 @@
             "open_issues": 12,
             "owner": "0xType",
             "repo": "0xProto",
-            "stars": 2882,
+            "stars": 2883,
             "topics": [
               "design",
               "font",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T21:46:33.131Z",
+    "last_updated": "2026-09-12T21:29:04.140Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",
