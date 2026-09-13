@@ -19,7 +19,7 @@
             "open_issues": 206,
             "owner": "JetBrains",
             "repo": "JetBrainsMono",
-            "stars": 13026,
+            "stars": 13025,
             "topics": [
               "coding-font",
               "font",
@@ -47,7 +47,7 @@
             "open_issues": 11,
             "owner": "iaolo",
             "repo": "iA-Fonts",
-            "stars": 4154,
+            "stars": 4155,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -64,7 +64,7 @@
             "id": 423600152,
             "language": "Python",
             "license": "OFL-1.1",
-            "last_commit": "2026-09-08T19:42:44Z",
+            "last_commit": "2026-09-13T20:32:19Z",
             "open_issues": 5,
             "owner": "calcom",
             "repo": "sans",
@@ -158,7 +158,7 @@
             "open_issues": 6,
             "owner": "twilio",
             "repo": "twilio-sans-mono",
-            "stars": 311,
+            "stars": 312,
             "topics": [
               "monospace-font",
               "twilio"
@@ -272,7 +272,7 @@
             "open_issues": 22,
             "owner": "tokotype",
             "repo": "PlusJakartaSans",
-            "stars": 1101,
+            "stars": 1103,
             "topics": [
               "font",
               "ofl",
@@ -352,7 +352,7 @@
             "open_issues": 83,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11638,
+            "stars": 11641,
             "topics": [
               "design",
               "font",
@@ -377,7 +377,7 @@
             "open_issues": 0,
             "owner": "mozilla",
             "repo": "Fira",
-            "stars": 5140,
+            "stars": 5141,
             "topics": [
               "abandoned",
               "unmaintained"
@@ -434,7 +434,7 @@
             "open_issues": 12,
             "owner": "lauridskern",
             "repo": "open-runde",
-            "stars": 1538,
+            "stars": 1540,
             "topics": [
               "design",
               "font",
@@ -515,7 +515,7 @@
             "open_issues": 11,
             "owner": "marcologous",
             "repo": "Open-Sauce-Fonts",
-            "stars": 696,
+            "stars": 697,
             "topics": [
               "alfredo-marco-pradil",
               "fonts",
@@ -967,7 +967,7 @@
             "open_issues": 37,
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11341,
+            "stars": 11348,
             "topics": [
               "font",
               "fonts",
@@ -995,7 +995,7 @@
             "open_issues": 22,
             "owner": "intel",
             "repo": "intel-one-mono",
-            "stars": 9953,
+            "stars": 10019,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -1016,7 +1016,7 @@
             "open_issues": 12,
             "owner": "0xType",
             "repo": "0xProto",
-            "stars": 2883,
+            "stars": 2885,
             "topics": [
               "design",
               "font",
@@ -1042,7 +1042,7 @@
             "open_issues": 16,
             "owner": "IdreesInc",
             "repo": "Miracode",
-            "stars": 1373,
+            "stars": 1374,
             "topics": [
               "font",
               "fonts",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T21:29:04.140Z",
+    "last_updated": "2026-09-13T21:28:39.576Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",
