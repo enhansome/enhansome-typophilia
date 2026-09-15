@@ -19,7 +19,7 @@
             "open_issues": 206,
             "owner": "JetBrains",
             "repo": "JetBrainsMono",
-            "stars": 13030,
+            "stars": 13032,
             "topics": [
               "coding-font",
               "font",
@@ -47,7 +47,7 @@
             "open_issues": 11,
             "owner": "iaolo",
             "repo": "iA-Fonts",
-            "stars": 4156,
+            "stars": 4159,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -348,7 +348,7 @@
             "id": 105702631,
             "language": "CSS",
             "license": "OFL-1.1",
-            "last_commit": "2026-09-14T17:24:05Z",
+            "last_commit": "2026-09-15T12:27:05Z",
             "open_issues": 81,
             "owner": "IBM",
             "repo": "plex",
@@ -377,7 +377,7 @@
             "open_issues": 0,
             "owner": "mozilla",
             "repo": "Fira",
-            "stars": 5141,
+            "stars": 5140,
             "topics": [
               "abandoned",
               "unmaintained"
@@ -542,7 +542,7 @@
             "open_issues": 0,
             "owner": "ivodolenc",
             "repo": "aspekta",
-            "stars": 544,
+            "stars": 545,
             "topics": [
               "aspekta",
               "collection",
@@ -572,7 +572,7 @@
             "open_issues": 0,
             "owner": "ivodolenc",
             "repo": "aspekta",
-            "stars": 544,
+            "stars": 545,
             "topics": [
               "aspekta",
               "collection",
@@ -757,7 +757,7 @@
             "open_issues": 0,
             "owner": "noirblancrouge",
             "repo": "Formera",
-            "stars": 178,
+            "stars": 179,
             "topics": [
               "font",
               "fonts",
@@ -967,7 +967,7 @@
             "open_issues": 37,
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11354,
+            "stars": 11361,
             "topics": [
               "font",
               "fonts",
@@ -995,7 +995,7 @@
             "open_issues": 0,
             "owner": "intel",
             "repo": "intel-one-mono",
-            "stars": 10091,
+            "stars": 10128,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -1016,7 +1016,7 @@
             "open_issues": 12,
             "owner": "0xType",
             "repo": "0xProto",
-            "stars": 2886,
+            "stars": 2889,
             "topics": [
               "design",
               "font",
@@ -1042,7 +1042,7 @@
             "open_issues": 16,
             "owner": "IdreesInc",
             "repo": "Miracode",
-            "stars": 1376,
+            "stars": 1379,
             "topics": [
               "font",
               "fonts",
@@ -1065,11 +1065,11 @@
             "id": 45587374,
             "language": "Tcl",
             "license": "OFL-1.1",
-            "last_commit": "2026-06-20T16:03:38Z",
-            "open_issues": 24,
+            "last_commit": "2026-09-15T13:39:24Z",
+            "open_issues": 23,
             "owner": "blobject",
             "repo": "agave",
-            "stars": 1058,
+            "stars": 1057,
             "topics": [
               "font",
               "monospace",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T22:33:51.280Z",
+    "last_updated": "2026-09-15T22:18:34.969Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",
