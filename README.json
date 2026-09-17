@@ -47,7 +47,7 @@
             "open_issues": 11,
             "owner": "iaolo",
             "repo": "iA-Fonts",
-            "stars": 4158,
+            "stars": 4159,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -272,7 +272,7 @@
             "open_issues": 22,
             "owner": "tokotype",
             "repo": "PlusJakartaSans",
-            "stars": 1105,
+            "stars": 1106,
             "topics": [
               "font",
               "ofl",
@@ -349,10 +349,10 @@
             "language": "CSS",
             "license": "OFL-1.1",
             "last_commit": "2026-09-15T12:27:05Z",
-            "open_issues": 81,
+            "open_issues": 82,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11644,
+            "stars": 11643,
             "topics": [
               "design",
               "font",
@@ -434,7 +434,7 @@
             "open_issues": 12,
             "owner": "lauridskern",
             "repo": "open-runde",
-            "stars": 1542,
+            "stars": 1544,
             "topics": [
               "design",
               "font",
@@ -451,7 +451,7 @@
           "repo_info": {
             "archived": false,
             "description": "A variable sans serif typeface inspired by the classic neo-grotesk Swiss design",
-            "homepage": "https://randommaerks.github.io/overused-grotesk",
+            "homepage": "https://randommaerks.github.io/typefaces/overused-grotesk",
             "id": 671886356,
             "language": "Python",
             "license": "OFL-1.1",
@@ -490,7 +490,7 @@
             "open_issues": 6,
             "owner": "anewtypeofinterference",
             "repo": "Optician-Sans",
-            "stars": 703,
+            "stars": 702,
             "topics": [
               "font",
               "opticians",
@@ -515,7 +515,7 @@
             "open_issues": 11,
             "owner": "marcologous",
             "repo": "Open-Sauce-Fonts",
-            "stars": 698,
+            "stars": 699,
             "topics": [
               "alfredo-marco-pradil",
               "fonts",
@@ -542,7 +542,7 @@
             "open_issues": 0,
             "owner": "ivodolenc",
             "repo": "aspekta",
-            "stars": 545,
+            "stars": 546,
             "topics": [
               "aspekta",
               "collection",
@@ -572,7 +572,7 @@
             "open_issues": 0,
             "owner": "ivodolenc",
             "repo": "aspekta",
-            "stars": 545,
+            "stars": 546,
             "topics": [
               "aspekta",
               "collection",
@@ -967,7 +967,7 @@
             "open_issues": 37,
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11363,
+            "stars": 11367,
             "topics": [
               "font",
               "fonts",
@@ -995,7 +995,7 @@
             "open_issues": 0,
             "owner": "intel",
             "repo": "intel-one-mono",
-            "stars": 10131,
+            "stars": 10136,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -1013,10 +1013,10 @@
             "language": "Python",
             "license": "OFL-1.1",
             "last_commit": "2026-03-21T10:01:37Z",
-            "open_issues": 12,
+            "open_issues": 14,
             "owner": "0xType",
             "repo": "0xProto",
-            "stars": 2891,
+            "stars": 2893,
             "topics": [
               "design",
               "font",
@@ -1042,7 +1042,7 @@
             "open_issues": 16,
             "owner": "IdreesInc",
             "repo": "Miracode",
-            "stars": 1379,
+            "stars": 1380,
             "topics": [
               "font",
               "fonts",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T22:13:21.074Z",
+    "last_updated": "2026-09-17T22:15:35.957Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",
