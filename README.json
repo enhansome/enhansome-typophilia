@@ -19,7 +19,7 @@
             "open_issues": 206,
             "owner": "JetBrains",
             "repo": "JetBrainsMono",
-            "stars": 13035,
+            "stars": 13040,
             "topics": [
               "coding-font",
               "font",
@@ -47,7 +47,7 @@
             "open_issues": 11,
             "owner": "iaolo",
             "repo": "iA-Fonts",
-            "stars": 4159,
+            "stars": 4161,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -95,7 +95,7 @@
             "open_issues": 7,
             "owner": "AppleDesignResources",
             "repo": "SanFranciscoFont",
-            "stars": 1089,
+            "stars": 1088,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -116,7 +116,7 @@
             "open_issues": 34,
             "owner": "RedHatOfficial",
             "repo": "RedHatFont",
-            "stars": 615,
+            "stars": 616,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -137,7 +137,7 @@
             "open_issues": 5,
             "owner": "reddit",
             "repo": "redditsans",
-            "stars": 463,
+            "stars": 464,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -158,7 +158,7 @@
             "open_issues": 6,
             "owner": "twilio",
             "repo": "twilio-sans-mono",
-            "stars": 313,
+            "stars": 314,
             "topics": [
               "monospace-font",
               "twilio"
@@ -220,7 +220,7 @@
             "id": 208065709,
             "language": "Python",
             "license": "OFL-1.1",
-            "last_commit": "2026-09-09T10:02:54Z",
+            "last_commit": "2026-09-18T08:25:24Z",
             "open_issues": 1,
             "owner": "balsamiq",
             "repo": "balsamiqsans",
@@ -349,10 +349,10 @@
             "language": "CSS",
             "license": "OFL-1.1",
             "last_commit": "2026-09-15T12:27:05Z",
-            "open_issues": 82,
+            "open_issues": 83,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11643,
+            "stars": 11644,
             "topics": [
               "design",
               "font",
@@ -377,7 +377,7 @@
             "open_issues": 0,
             "owner": "mozilla",
             "repo": "Fira",
-            "stars": 5140,
+            "stars": 5139,
             "topics": [
               "abandoned",
               "unmaintained"
@@ -401,7 +401,7 @@
             "open_issues": 5,
             "owner": "petykowski",
             "repo": "London-Underground-Dot-Matrix-Typeface",
-            "stars": 1612,
+            "stars": 1611,
             "topics": [
               "dlr",
               "font",
@@ -459,7 +459,7 @@
             "open_issues": 4,
             "owner": "RandomMaerks",
             "repo": "Overused-Grotesk",
-            "stars": 793,
+            "stars": 794,
             "topics": [
               "font",
               "grotesk",
@@ -542,7 +542,7 @@
             "open_issues": 0,
             "owner": "ivodolenc",
             "repo": "aspekta",
-            "stars": 546,
+            "stars": 547,
             "topics": [
               "aspekta",
               "collection",
@@ -572,7 +572,7 @@
             "open_issues": 0,
             "owner": "ivodolenc",
             "repo": "aspekta",
-            "stars": 546,
+            "stars": 547,
             "topics": [
               "aspekta",
               "collection",
@@ -629,7 +629,7 @@
             "open_issues": 4,
             "owner": "wanteddev",
             "repo": "wanted-sans",
-            "stars": 360,
+            "stars": 361,
             "topics": [
               "font",
               "fonts",
@@ -995,7 +995,7 @@
             "open_issues": 0,
             "owner": "intel",
             "repo": "intel-one-mono",
-            "stars": 10136,
+            "stars": 10142,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -1042,7 +1042,7 @@
             "open_issues": 16,
             "owner": "IdreesInc",
             "repo": "Miracode",
-            "stars": 1380,
+            "stars": 1381,
             "topics": [
               "font",
               "fonts",
@@ -1066,7 +1066,7 @@
             "language": "Tcl",
             "license": "OFL-1.1",
             "last_commit": "2026-09-15T13:39:24Z",
-            "open_issues": 23,
+            "open_issues": 21,
             "owner": "blobject",
             "repo": "agave",
             "stars": 1057,
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T22:15:35.957Z",
+    "last_updated": "2026-09-18T21:43:51.170Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",

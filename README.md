@@ -353,16 +353,16 @@ The common typeface classifications are:
 
 ## Custom Corporate Fonts
 
-1. [JetBrains Mono](https://www.jetbrains.com/lp/mono/) on [GitHub](https://github.com/JetBrains/JetBrainsMono) ⭐ 13,035 | 🐛 206 | 🌐 Shell | 📅 2025-01-31
-2. [iA-Fonts](https://ia.net/topics/a-typographic-christmas) on [GitHub](https://github.com/iaolo/iA-Fonts) ⭐ 4,159 | 🐛 11 | 📅 2023-06-16
+1. [JetBrains Mono](https://www.jetbrains.com/lp/mono/) on [GitHub](https://github.com/JetBrains/JetBrainsMono) ⭐ 13,040 | 🐛 206 | 🌐 Shell | 📅 2025-01-31
+2. [iA-Fonts](https://ia.net/topics/a-typographic-christmas) on [GitHub](https://github.com/iaolo/iA-Fonts) ⭐ 4,161 | 🐛 11 | 📅 2023-06-16
 3. [Cal Sans](https://github.com/calcom/font) ⭐ 1,615 | 🐛 5 | 🌐 Python | 📅 2026-09-13 used by cal.com
-4. Apple's [San Francisco](https://developer.apple.com/fonts/) on [GitHub](https://github.com/AppleDesignResources/SanFranciscoFont) ⭐ 1,089 | 🐛 7 | 📅 2017-03-01
-5. [Red Hat fonts](https://www.redhat.com/en/about/brand/standards/typography) on [GitHub](https://github.com/RedHatOfficial/RedHatFont) ⭐ 615 | 🐛 34 | 🌐 HTML | 📅 2026-04-28 by [MCKL](https://mckltype.com/red-hat)
-6. [Reddit Sans](https://github.com/reddit/redditsans) ⭐ 463 | 🐛 5 | 🌐 Pug | 📅 2025-06-09
-7. [Twilio Sans Mono](https://github.com/twilio/twilio-sans-mono) ⭐ 313 | 🐛 6 | 🌐 Shell | 📅 2022-11-17 by Sharp Type
-8. Intel's [Clear Sans](https://github.com/intel/clear-sans) ⚠️ Archived & [One Mono](https://github.com/intel/intel-one-mono) ⭐ 10,136 | 🐛 0 | 📅 2026-09-14
+4. Apple's [San Francisco](https://developer.apple.com/fonts/) on [GitHub](https://github.com/AppleDesignResources/SanFranciscoFont) ⭐ 1,088 | 🐛 7 | 📅 2017-03-01
+5. [Red Hat fonts](https://www.redhat.com/en/about/brand/standards/typography) on [GitHub](https://github.com/RedHatOfficial/RedHatFont) ⭐ 616 | 🐛 34 | 🌐 HTML | 📅 2026-04-28 by [MCKL](https://mckltype.com/red-hat)
+6. [Reddit Sans](https://github.com/reddit/redditsans) ⭐ 464 | 🐛 5 | 🌐 Pug | 📅 2025-06-09
+7. [Twilio Sans Mono](https://github.com/twilio/twilio-sans-mono) ⭐ 314 | 🐛 6 | 🌐 Shell | 📅 2022-11-17 by Sharp Type
+8. Intel's [Clear Sans](https://github.com/intel/clear-sans) ⚠️ Archived & [One Mono](https://github.com/intel/intel-one-mono) ⭐ 10,142 | 🐛 0 | 📅 2026-09-14
 9. [HackerNoon Font](https://github.com/hackernoon/font) ⭐ 66 | 🐛 2 | 📅 2022-08-31
-10. [Balsamiq Sans Font](https://balsamiq.com/givingback/opensource/font/) on [GitHub](https://github.com/balsamiq/balsamiqsans) ⭐ 40 | 🐛 1 | 🌐 Python | 📅 2026-09-09
+10. [Balsamiq Sans Font](https://balsamiq.com/givingback/opensource/font/) on [GitHub](https://github.com/balsamiq/balsamiqsans) ⭐ 40 | 🐛 1 | 🌐 Python | 📅 2026-09-18
 11. [Airbnb Cereal](https://airbnb.design/cereal/) by Dalton Maag on [GitHub](https://github.com/iyadh/cereal-airbnb-font) ⭐ 8 | 🐛 0 | 📅 2019-02-25
 12. Amazon [Ember](https://developer.amazon.com/en-US/alexa/branding/echo-guidelines/identity-guidelines/typography) for Echo & Bookerly for Kindle by Dalton Maag
 13. Atlassian's Charlie Sans by [Oh No Type](https://ohnotype.co/custom/atlassian)
@@ -415,9 +415,9 @@ The common typeface classifications are:
 
 ## Notable Free Fonts
 
-1. [IBM Plex](https://www.ibm.com/plex/) on [GitHub](https://github.com/IBM/plex) ⭐ 11,643 | 🐛 82 | 🌐 CSS | 📅 2026-09-15
+1. [IBM Plex](https://www.ibm.com/plex/) on [GitHub](https://github.com/IBM/plex) ⭐ 11,644 | 🐛 83 | 🌐 CSS | 📅 2026-09-15
 2. Mozilla's [Fira Type Family](https://mozilla.github.io/Fira/) on [GitHub](https://github.com/mozilla/Fira) ⚠️ Archived
-3. [London Underground Dot-Matrix Typeface](https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface) ⭐ 1,612 | 🐛 5 | 📅 2025-08-14
+3. [London Underground Dot-Matrix Typeface](https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface) ⭐ 1,611 | 🐛 5 | 📅 2025-08-14
 4. Adobe's Source Type Family on [GitHub](https://github.com/adobe-fonts)
 5. GitHub's [Monaspace superfamily](https://monaspace.githubnext.com/) & [Mona Sans](https://github.com/mona-sans)
 6. [Inter](https://rsms.me/inter/) originally built for [Figma](https://www.figma.com/blog/the-birth-of-inter/)
@@ -438,13 +438,13 @@ The common typeface classifications are:
 ## Fonts on GitHub (Excluding Google Fonts)
 
 1. [Open Runde](https://github.com/lauridskern/open-runde) ⭐ 1,544 | 🐛 12 | 📅 2026-07-25 rounded variant of Inter.
-2. [Overused Grotesk](https://github.com/RandomMaerks/Overused-Grotesk) ⭐ 793 | 🐛 4 | 🌐 Python | 📅 2026-03-28 - classic neo-grotesk Swiss design
+2. [Overused Grotesk](https://github.com/RandomMaerks/Overused-Grotesk) ⭐ 794 | 🐛 4 | 🌐 Python | 📅 2026-03-28 - classic neo-grotesk Swiss design
 3. [Optician Sans](https://github.com/anewtypeofinterference/Optician-Sans) ⭐ 702 | 🐛 6 | 📅 2021-12-19 Typeface based on the historical eye charts and optotypes used by opticians world wide.
 4. [Open Sauce Fonts](https://github.com/marcologous/Open-Sauce-Fonts) ⭐ 699 | 🐛 11 | 🌐 HTML | 📅 2026-05-11 Creative Sauce's internal type super family.
-5. [Aspekta](https://github.com/ivodolenc/aspekta) ⭐ 546 | 🐛 0 | 🌐 CSS | 📅 2025-05-09 - modern sans-serif collection
-6. [Aspekta](https://github.com/ivodolenc/aspekta) ⭐ 546 | 🐛 0 | 🌐 CSS | 📅 2025-05-09 - modern sans-serif collection
+5. [Aspekta](https://github.com/ivodolenc/aspekta) ⭐ 547 | 🐛 0 | 🌐 CSS | 📅 2025-05-09 - modern sans-serif collection
+6. [Aspekta](https://github.com/ivodolenc/aspekta) ⭐ 547 | 🐛 0 | 🌐 CSS | 📅 2025-05-09 - modern sans-serif collection
 7. [Young Serif](https://github.com/noirblancrouge/YoungSerif) ⭐ 474 | 🐛 0 | 🌐 Python | 📅 2026-05-19 a heavy weight old style serif typeface
-8. [Wanted Sans](https://github.com/wanteddev/wanted-sans) ⭐ 360 | 🐛 4 | 🌐 CSS | 📅 2024-05-27 Geometric with a heart, Humanist with a soul
+8. [Wanted Sans](https://github.com/wanteddev/wanted-sans) ⭐ 361 | 🐛 4 | 🌐 CSS | 📅 2024-05-27 Geometric with a heart, Humanist with a soul
 9. [basement grotesque](https://github.com/basementstudio/basement-grotesque) ⭐ 336 | 🐛 17 | 🌐 TypeScript | 📅 2023-03-06
 10. [Outfit Fonts](https://github.com/Outfitio/Outfit-Fonts) ⚠️ Archived - geometric sans
 11. [Techna Sans](https://github.com/carlstype/techna-sans) ⭐ 251 | 🐛 5 | 📅 2019-08-19 Sharp, geometric typeface
@@ -461,10 +461,10 @@ The common typeface classifications are:
 ## Popular Fonts for Coding
 
 1. [Monocraft](https://github.com/IdreesInc/Monocraft) ⭐ 11,367 | 🐛 37 | 🌐 Python | 📅 2026-05-27 - Minecraft typeface
-2. [Intel One Mono](https://github.com/intel/intel-one-mono) ⭐ 10,136 | 🐛 0 | 📅 2026-09-14
+2. [Intel One Mono](https://github.com/intel/intel-one-mono) ⭐ 10,142 | 🐛 0 | 📅 2026-09-14
 3. [0xProto](https://github.com/0xType/0xProto) ⭐ 2,893 | 🐛 14 | 🌐 Python | 📅 2026-03-21
-4. [Miracode](https://github.com/IdreesInc/Miracode) ⭐ 1,380 | 🐛 16 | 🌐 Python | 📅 2025-08-05 Sharper Monocraft
-5. [Agave](https://github.com/blobject/agave) ⭐ 1,057 | 🐛 23 | 🌐 Tcl | 📅 2026-09-15
+4. [Miracode](https://github.com/IdreesInc/Miracode) ⭐ 1,381 | 🐛 16 | 🌐 Python | 📅 2025-08-05 Sharper Monocraft
+5. [Agave](https://github.com/blobject/agave) ⭐ 1,057 | 🐛 21 | 🌐 Tcl | 📅 2026-09-15
 6. [Iosevka](https://typeof.net/Iosevka/)
 7. [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 8. [Monaspace](https://monaspace.githubnext.com/)
@@ -494,7 +494,7 @@ The common typeface classifications are:
 
 ## Font Aggregators
 
-1. [Google Fonts](https://fonts.google.com/) font files on [GitHub](https://github.com/google/fonts/tree/main/ofl) ⭐ 20,497 | 🐛 1,423 | 🌐 HTML | 📅 2026-09-17
+1. [Google Fonts](https://fonts.google.com/) font files on [GitHub](https://github.com/google/fonts/tree/main/ofl) ⭐ 20,502 | 🐛 1,424 | 🌐 HTML | 📅 2026-09-18
 2. [Fontsource](https://fontsource.org/) 1695 families. NPM packages.
 3. [Online Web Fonts](https://www.onlinewebfonts.com/fonts) - font files from websites
 4. [Font Meme](https://fontmeme.com/) - Discover fonts used in popular culture.
@@ -664,4 +664,4 @@ Source: *Thinking with Type* by Ellen Lupton
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
