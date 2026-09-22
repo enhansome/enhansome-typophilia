@@ -47,7 +47,7 @@
             "open_issues": 11,
             "owner": "iaolo",
             "repo": "iA-Fonts",
-            "stars": 4163,
+            "stars": 4164,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -64,11 +64,11 @@
             "id": 423600152,
             "language": "Python",
             "license": "OFL-1.1",
-            "last_commit": "2026-09-21T22:01:00Z",
+            "last_commit": "2026-09-22T15:53:49Z",
             "open_issues": 5,
             "owner": "calcom",
             "repo": "sans",
-            "stars": 1616,
+            "stars": 1618,
             "topics": [
               "cal-sans",
               "design",
@@ -116,7 +116,7 @@
             "open_issues": 34,
             "owner": "RedHatOfficial",
             "repo": "RedHatFont",
-            "stars": 616,
+            "stars": 617,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -272,7 +272,7 @@
             "open_issues": 22,
             "owner": "tokotype",
             "repo": "PlusJakartaSans",
-            "stars": 1106,
+            "stars": 1107,
             "topics": [
               "font",
               "ofl",
@@ -348,11 +348,11 @@
             "id": 105702631,
             "language": "CSS",
             "license": "OFL-1.1",
-            "last_commit": "2026-09-21T14:54:58Z",
+            "last_commit": "2026-09-22T11:32:26Z",
             "open_issues": 84,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11651,
+            "stars": 11653,
             "topics": [
               "design",
               "font",
@@ -434,7 +434,7 @@
             "open_issues": 12,
             "owner": "lauridskern",
             "repo": "open-runde",
-            "stars": 1549,
+            "stars": 1550,
             "topics": [
               "design",
               "font",
@@ -459,7 +459,7 @@
             "open_issues": 4,
             "owner": "RandomMaerks",
             "repo": "Overused-Grotesk",
-            "stars": 795,
+            "stars": 796,
             "topics": [
               "font",
               "grotesk",
@@ -490,7 +490,7 @@
             "open_issues": 6,
             "owner": "anewtypeofinterference",
             "repo": "Optician-Sans",
-            "stars": 702,
+            "stars": 703,
             "topics": [
               "font",
               "opticians",
@@ -542,7 +542,7 @@
             "open_issues": 0,
             "owner": "ivodolenc",
             "repo": "aspekta",
-            "stars": 548,
+            "stars": 549,
             "topics": [
               "aspekta",
               "collection",
@@ -572,7 +572,7 @@
             "open_issues": 0,
             "owner": "ivodolenc",
             "repo": "aspekta",
-            "stars": 548,
+            "stars": 549,
             "topics": [
               "aspekta",
               "collection",
@@ -995,7 +995,7 @@
             "open_issues": 0,
             "owner": "intel",
             "repo": "intel-one-mono",
-            "stars": 10153,
+            "stars": 10154,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -1016,7 +1016,7 @@
             "open_issues": 14,
             "owner": "0xType",
             "repo": "0xProto",
-            "stars": 2898,
+            "stars": 2902,
             "topics": [
               "design",
               "font",
@@ -1069,7 +1069,7 @@
             "open_issues": 21,
             "owner": "blobject",
             "repo": "agave",
-            "stars": 1061,
+            "stars": 1064,
             "topics": [
               "font",
               "monospace",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T22:37:24.448Z",
+    "last_updated": "2026-09-22T22:17:23.942Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",
