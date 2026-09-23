@@ -47,7 +47,7 @@
             "open_issues": 11,
             "owner": "iaolo",
             "repo": "iA-Fonts",
-            "stars": 4164,
+            "stars": 4167,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -64,11 +64,11 @@
             "id": 423600152,
             "language": "Python",
             "license": "OFL-1.1",
-            "last_commit": "2026-09-22T15:53:49Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-23T16:59:12Z",
+            "open_issues": 3,
             "owner": "calcom",
             "repo": "sans",
-            "stars": 1618,
+            "stars": 1620,
             "topics": [
               "cal-sans",
               "design",
@@ -352,7 +352,7 @@
             "open_issues": 84,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11653,
+            "stars": 11654,
             "topics": [
               "design",
               "font",
@@ -377,7 +377,7 @@
             "open_issues": 0,
             "owner": "mozilla",
             "repo": "Fira",
-            "stars": 5139,
+            "stars": 5138,
             "topics": [
               "abandoned",
               "unmaintained"
@@ -542,7 +542,7 @@
             "open_issues": 0,
             "owner": "ivodolenc",
             "repo": "aspekta",
-            "stars": 549,
+            "stars": 550,
             "topics": [
               "aspekta",
               "collection",
@@ -572,7 +572,7 @@
             "open_issues": 0,
             "owner": "ivodolenc",
             "repo": "aspekta",
-            "stars": 549,
+            "stars": 550,
             "topics": [
               "aspekta",
               "collection",
@@ -967,7 +967,7 @@
             "open_issues": 36,
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11373,
+            "stars": 11376,
             "topics": [
               "font",
               "fonts",
@@ -995,7 +995,7 @@
             "open_issues": 0,
             "owner": "intel",
             "repo": "intel-one-mono",
-            "stars": 10154,
+            "stars": 10157,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -1039,7 +1039,7 @@
             "language": "Python",
             "license": "OFL-1.1",
             "last_commit": "2025-08-05T21:13:43Z",
-            "open_issues": 16,
+            "open_issues": 19,
             "owner": "IdreesInc",
             "repo": "Miracode",
             "stars": 1382,
@@ -1069,7 +1069,7 @@
             "open_issues": 21,
             "owner": "blobject",
             "repo": "agave",
-            "stars": 1064,
+            "stars": 1065,
             "topics": [
               "font",
               "monospace",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T22:17:23.942Z",
+    "last_updated": "2026-09-23T22:21:44.379Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",
@@ -1097,7 +1097,7 @@
       "open_issues": 1,
       "owner": "subidit",
       "repo": "typophilia",
-      "stars": 121,
+      "stars": 122,
       "topics": [
         "awesome",
         "awesome-list",
