@@ -44,10 +44,10 @@
             "language": null,
             "license": null,
             "last_commit": "2023-06-16T16:21:57Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "iaolo",
             "repo": "iA-Fonts",
-            "stars": 4167,
+            "stars": 4168,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -65,10 +65,10 @@
             "language": "Python",
             "license": "OFL-1.1",
             "last_commit": "2026-09-23T16:59:12Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "calcom",
             "repo": "sans",
-            "stars": 1620,
+            "stars": 1622,
             "topics": [
               "cal-sans",
               "design",
@@ -113,7 +113,7 @@
             "language": "HTML",
             "license": "OFL-1.1",
             "last_commit": "2026-04-28T19:53:02Z",
-            "open_issues": 34,
+            "open_issues": 35,
             "owner": "RedHatOfficial",
             "repo": "RedHatFont",
             "stars": 617,
@@ -352,7 +352,7 @@
             "open_issues": 84,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11654,
+            "stars": 11656,
             "topics": [
               "design",
               "font",
@@ -377,7 +377,7 @@
             "open_issues": 0,
             "owner": "mozilla",
             "repo": "Fira",
-            "stars": 5138,
+            "stars": 5139,
             "topics": [
               "abandoned",
               "unmaintained"
@@ -459,7 +459,7 @@
             "open_issues": 4,
             "owner": "RandomMaerks",
             "repo": "Overused-Grotesk",
-            "stars": 796,
+            "stars": 797,
             "topics": [
               "font",
               "grotesk",
@@ -512,7 +512,7 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2026-05-11T21:22:36Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "marcologous",
             "repo": "Open-Sauce-Fonts",
             "stars": 698,
@@ -602,7 +602,7 @@
             "open_issues": 0,
             "owner": "noirblancrouge",
             "repo": "YoungSerif",
-            "stars": 474,
+            "stars": 473,
             "topics": [
               "font",
               "fonts",
@@ -784,7 +784,7 @@
             "open_issues": 2,
             "owner": "somefreefonts",
             "repo": "helmet",
-            "stars": 175,
+            "stars": 176,
             "topics": [
               "font",
               "typeface"
@@ -967,7 +967,7 @@
             "open_issues": 36,
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11376,
+            "stars": 11377,
             "topics": [
               "font",
               "fonts",
@@ -995,7 +995,7 @@
             "open_issues": 0,
             "owner": "intel",
             "repo": "intel-one-mono",
-            "stars": 10157,
+            "stars": 10160,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -1016,7 +1016,7 @@
             "open_issues": 14,
             "owner": "0xType",
             "repo": "0xProto",
-            "stars": 2902,
+            "stars": 2904,
             "topics": [
               "design",
               "font",
@@ -1042,7 +1042,7 @@
             "open_issues": 19,
             "owner": "IdreesInc",
             "repo": "Miracode",
-            "stars": 1382,
+            "stars": 1383,
             "topics": [
               "font",
               "fonts",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T22:21:44.379Z",
+    "last_updated": "2026-09-24T22:29:59.257Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",
