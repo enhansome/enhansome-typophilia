@@ -19,7 +19,7 @@
             "open_issues": 207,
             "owner": "JetBrains",
             "repo": "JetBrainsMono",
-            "stars": 13044,
+            "stars": 13045,
             "topics": [
               "coding-font",
               "font",
@@ -47,7 +47,7 @@
             "open_issues": 12,
             "owner": "iaolo",
             "repo": "iA-Fonts",
-            "stars": 4168,
+            "stars": 4169,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -352,7 +352,7 @@
             "open_issues": 84,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11658,
+            "stars": 11660,
             "topics": [
               "design",
               "font",
@@ -542,7 +542,7 @@
             "open_issues": 0,
             "owner": "ivodolenc",
             "repo": "aspekta",
-            "stars": 551,
+            "stars": 552,
             "topics": [
               "aspekta",
               "collection",
@@ -572,7 +572,7 @@
             "open_issues": 0,
             "owner": "ivodolenc",
             "repo": "aspekta",
-            "stars": 551,
+            "stars": 552,
             "topics": [
               "aspekta",
               "collection",
@@ -967,7 +967,7 @@
             "open_issues": 36,
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11385,
+            "stars": 11386,
             "topics": [
               "font",
               "fonts",
@@ -995,7 +995,7 @@
             "open_issues": 0,
             "owner": "intel",
             "repo": "intel-one-mono",
-            "stars": 10159,
+            "stars": 10160,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -1042,7 +1042,7 @@
             "open_issues": 19,
             "owner": "IdreesInc",
             "repo": "Miracode",
-            "stars": 1386,
+            "stars": 1387,
             "topics": [
               "font",
               "fonts",
@@ -1069,7 +1069,7 @@
             "open_issues": 21,
             "owner": "blobject",
             "repo": "agave",
-            "stars": 1067,
+            "stars": 1068,
             "topics": [
               "font",
               "monospace",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T22:28:47.082Z",
+    "last_updated": "2026-09-26T21:59:30.173Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",
@@ -1097,7 +1097,7 @@
       "open_issues": 1,
       "owner": "subidit",
       "repo": "typophilia",
-      "stars": 122,
+      "stars": 123,
       "topics": [
         "awesome",
         "awesome-list",
