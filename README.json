@@ -16,10 +16,10 @@
             "language": "Shell",
             "license": "OFL-1.1",
             "last_commit": "2025-01-31T14:05:22Z",
-            "open_issues": 207,
+            "open_issues": 208,
             "owner": "JetBrains",
             "repo": "JetBrainsMono",
-            "stars": 13055,
+            "stars": 13054,
             "topics": [
               "coding-font",
               "font",
@@ -43,11 +43,11 @@
             "id": 111826317,
             "language": null,
             "license": null,
-            "last_commit": "2023-06-16T16:21:57Z",
+            "last_commit": "2026-10-02T17:49:13Z",
             "open_issues": 12,
             "owner": "iaolo",
             "repo": "iA-Fonts",
-            "stars": 4173,
+            "stars": 4176,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -64,11 +64,11 @@
             "id": 423600152,
             "language": "Python",
             "license": "OFL-1.1",
-            "last_commit": "2026-10-01T05:10:21Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-02T20:19:43Z",
+            "open_issues": 4,
             "owner": "calcom",
             "repo": "sans",
-            "stars": 1633,
+            "stars": 1639,
             "topics": [
               "cal-sans",
               "design",
@@ -116,7 +116,7 @@
             "open_issues": 35,
             "owner": "RedHatOfficial",
             "repo": "RedHatFont",
-            "stars": 617,
+            "stars": 616,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -348,8 +348,8 @@
             "id": 105702631,
             "language": "CSS",
             "license": "OFL-1.1",
-            "last_commit": "2026-09-22T11:32:26Z",
-            "open_issues": 84,
+            "last_commit": "2026-10-02T18:35:02Z",
+            "open_issues": 85,
             "owner": "IBM",
             "repo": "plex",
             "stars": 11669,
@@ -434,7 +434,7 @@
             "open_issues": 12,
             "owner": "lauridskern",
             "repo": "open-runde",
-            "stars": 1553,
+            "stars": 1554,
             "topics": [
               "design",
               "font",
@@ -967,7 +967,7 @@
             "open_issues": 36,
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11390,
+            "stars": 11391,
             "topics": [
               "font",
               "fonts",
@@ -995,7 +995,7 @@
             "open_issues": 0,
             "owner": "intel",
             "repo": "intel-one-mono",
-            "stars": 10162,
+            "stars": 10163,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -1016,7 +1016,7 @@
             "open_issues": 14,
             "owner": "0xType",
             "repo": "0xProto",
-            "stars": 2909,
+            "stars": 2911,
             "topics": [
               "design",
               "font",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T23:15:01.268Z",
+    "last_updated": "2026-10-02T23:02:59.052Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",
