@@ -124,7 +124,7 @@
         {
           "node_type": "item",
           "title": "Reddit Sans",
-          "description": null,
+          "description": "reddit/redditsans",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -190,7 +190,7 @@
         {
           "node_type": "item",
           "title": "HackerNoon Font",
-          "description": null,
+          "description": "hackernoon/font",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -259,7 +259,7 @@
         {
           "node_type": "item",
           "title": "+Jakarta Sans",
-          "description": null,
+          "description": "tokotype/PlusJakartaSans",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -319,7 +319,7 @@
             "open_issues": 7,
             "owner": "sora-xor",
             "repo": "sora-font",
-            "stars": 184,
+            "stars": 185,
             "topics": [
               "font",
               "fonts",
@@ -352,7 +352,7 @@
             "open_issues": 85,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11669,
+            "stars": 11670,
             "topics": [
               "design",
               "font",
@@ -388,7 +388,7 @@
         {
           "node_type": "item",
           "title": "London Underground Dot-Matrix Typeface",
-          "description": null,
+          "description": "petykowski/London-Underground-Dot-Matrix-Typeface",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -476,6 +476,33 @@
         },
         {
           "node_type": "item",
+          "title": "Open Sauce Fonts",
+          "description": "Creative Sauce's internal type super family.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open Sauce Fonts is a font super family that I developed for Creative Sauce's internal type system. It is a compact typeface that is optimised for better viewing small text on screen and print. Open Sauce fonts (Sans, One and Two) are under the SIL Open Font License and is going to be actively developed, improved and tested.",
+            "homepage": null,
+            "id": 252175252,
+            "language": "HTML",
+            "license": null,
+            "last_commit": "2026-05-11T21:22:36Z",
+            "open_issues": 12,
+            "owner": "marcologous",
+            "repo": "Open-Sauce-Fonts",
+            "stars": 703,
+            "topics": [
+              "alfredo-marco-pradil",
+              "fonts",
+              "ofl",
+              "sil",
+              "typeface"
+            ]
+          },
+          "first_seen": "2026-08-29T02:17:18.849Z"
+        },
+        {
+          "node_type": "item",
           "title": "Optician Sans",
           "description": "Typeface based on the historical eye charts and optotypes used by opticians world wide.",
           "children": [],
@@ -494,33 +521,6 @@
             "topics": [
               "font",
               "opticians",
-              "typeface"
-            ]
-          },
-          "first_seen": "2026-08-29T02:17:18.849Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Open Sauce Fonts",
-          "description": "Creative Sauce's internal type super family.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Open Sauce Fonts is a font super family that I developed for Creative Sauce's internal type system. It is a compact typeface that is optimised for better viewing small text on screen and print. Open Sauce fonts (Sans, One and Two) are under the SIL Open Font License and is going to be actively developed, improved and tested.",
-            "homepage": null,
-            "id": 252175252,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2026-05-11T21:22:36Z",
-            "open_issues": 12,
-            "owner": "marcologous",
-            "repo": "Open-Sauce-Fonts",
-            "stars": 702,
-            "topics": [
-              "alfredo-marco-pradil",
-              "fonts",
-              "ofl",
-              "sil",
               "typeface"
             ]
           },
@@ -641,7 +641,7 @@
         {
           "node_type": "item",
           "title": "basement grotesque",
-          "description": null,
+          "description": "basementstudio/basement-grotesque",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -982,7 +982,7 @@
         {
           "node_type": "item",
           "title": "Intel One Mono",
-          "description": null,
+          "description": "intel/intel-one-mono",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1003,7 +1003,7 @@
         {
           "node_type": "item",
           "title": "0xProto",
-          "description": null,
+          "description": "0xType/0xProto",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1056,7 +1056,7 @@
         {
           "node_type": "item",
           "title": "Agave",
-          "description": null,
+          "description": "blobject/agave",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:02:59.052Z",
+    "last_updated": "2026-10-03T05:10:29.921Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",

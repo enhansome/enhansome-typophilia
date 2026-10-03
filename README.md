@@ -404,7 +404,7 @@ The common typeface classifications are:
 
 1. [+Jakarta Sans](https://github.com/tokotype/PlusJakartaSans) ⭐ 1,108 | 🐛 22 | 🌐 Python | 📅 2024-01-18
 2. [Cooper Hewitt](https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/) from Smithsonian Design Musium on [GitHub](https://github.com/cooperhewitt/cooperhewitt-typeface) ⭐ 427 | 🐛 11 | 📅 2015-09-04
-3. [SORA typeface](https://github.com/sora-xor/sora-font) ⭐ 184 | 🐛 7 | 🌐 Python | 📅 2024-05-01 - neutral sans serif typeface
+3. [SORA typeface](https://github.com/sora-xor/sora-font) ⭐ 185 | 🐛 7 | 🌐 Python | 📅 2024-05-01 - neutral sans serif typeface
 4. [Public Sans](https://public-sans.digital.gov/) by U.S. Web Design System ([USWDS](https://designsystem.digital.gov/))
 5. [Canada1500](http://typodermicfonts.com/canada1500/)
 6. [Sweden Sans](https://sharingsweden.se/the-sweden-brand/brand-visual-identity/typography)
@@ -415,7 +415,7 @@ The common typeface classifications are:
 
 ## Notable Free Fonts
 
-1. [IBM Plex](https://www.ibm.com/plex/) on [GitHub](https://github.com/IBM/plex) ⭐ 11,669 | 🐛 85 | 🌐 CSS | 📅 2026-10-02
+1. [IBM Plex](https://www.ibm.com/plex/) on [GitHub](https://github.com/IBM/plex) ⭐ 11,670 | 🐛 85 | 🌐 CSS | 📅 2026-10-02
 2. Mozilla's [Fira Type Family](https://mozilla.github.io/Fira/) on [GitHub](https://github.com/mozilla/Fira) ⚠️ Archived
 3. [London Underground Dot-Matrix Typeface](https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface) ⭐ 1,611 | 🐛 5 | 📅 2025-08-14
 4. Adobe's Source Type Family on [GitHub](https://github.com/adobe-fonts)
@@ -439,8 +439,8 @@ The common typeface classifications are:
 
 1. [Open Runde](https://github.com/lauridskern/open-runde) ⭐ 1,554 | 🐛 12 | 📅 2026-07-25 rounded variant of Inter.
 2. [Overused Grotesk](https://github.com/RandomMaerks/Overused-Grotesk) ⭐ 797 | 🐛 4 | 🌐 Python | 📅 2026-03-28 - classic neo-grotesk Swiss design
-3. [Optician Sans](https://github.com/anewtypeofinterference/Optician-Sans) ⭐ 703 | 🐛 6 | 📅 2021-12-19 Typeface based on the historical eye charts and optotypes used by opticians world wide.
-4. [Open Sauce Fonts](https://github.com/marcologous/Open-Sauce-Fonts) ⭐ 702 | 🐛 12 | 🌐 HTML | 📅 2026-05-11 Creative Sauce's internal type super family.
+3. [Open Sauce Fonts](https://github.com/marcologous/Open-Sauce-Fonts) ⭐ 703 | 🐛 12 | 🌐 HTML | 📅 2026-05-11 Creative Sauce's internal type super family.
+4. [Optician Sans](https://github.com/anewtypeofinterference/Optician-Sans) ⭐ 703 | 🐛 6 | 📅 2021-12-19 Typeface based on the historical eye charts and optotypes used by opticians world wide.
 5. [Aspekta](https://github.com/ivodolenc/aspekta) ⭐ 553 | 🐛 0 | 🌐 CSS | 📅 2025-05-09 - modern sans-serif collection
 6. [Aspekta](https://github.com/ivodolenc/aspekta) ⭐ 553 | 🐛 0 | 🌐 CSS | 📅 2025-05-09 - modern sans-serif collection
 7. [Young Serif](https://github.com/noirblancrouge/YoungSerif) ⭐ 473 | 🐛 0 | 🌐 Python | 📅 2026-05-19 a heavy weight old style serif typeface
@@ -494,7 +494,7 @@ The common typeface classifications are:
 
 ## Font Aggregators
 
-1. [Google Fonts](https://fonts.google.com/) font files on [GitHub](https://github.com/google/fonts/tree/main/ofl) ⭐ 20,555 | 🐛 1,444 | 🌐 HTML | 📅 2026-10-02
+1. [Google Fonts](https://fonts.google.com/) font files on [GitHub](https://github.com/google/fonts/tree/main/ofl) ⭐ 20,556 | 🐛 1,444 | 🌐 HTML | 📅 2026-10-03
 2. [Fontsource](https://fontsource.org/) 1695 families. NPM packages.
 3. [Online Web Fonts](https://www.onlinewebfonts.com/fonts) - font files from websites
 4. [Font Meme](https://fontmeme.com/) - Discover fonts used in popular culture.
@@ -664,4 +664,4 @@ Source: *Thinking with Type* by Ellen Lupton
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
