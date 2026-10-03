@@ -19,7 +19,7 @@
             "open_issues": 208,
             "owner": "JetBrains",
             "repo": "JetBrainsMono",
-            "stars": 13054,
+            "stars": 13056,
             "topics": [
               "coding-font",
               "font",
@@ -401,7 +401,7 @@
             "open_issues": 5,
             "owner": "petykowski",
             "repo": "London-Underground-Dot-Matrix-Typeface",
-            "stars": 1611,
+            "stars": 1610,
             "topics": [
               "dlr",
               "font",
@@ -459,7 +459,7 @@
             "open_issues": 4,
             "owner": "RandomMaerks",
             "repo": "Overused-Grotesk",
-            "stars": 797,
+            "stars": 796,
             "topics": [
               "font",
               "grotesk",
@@ -542,7 +542,7 @@
             "open_issues": 0,
             "owner": "ivodolenc",
             "repo": "aspekta",
-            "stars": 553,
+            "stars": 554,
             "topics": [
               "aspekta",
               "collection",
@@ -572,7 +572,7 @@
             "open_issues": 0,
             "owner": "ivodolenc",
             "repo": "aspekta",
-            "stars": 553,
+            "stars": 554,
             "topics": [
               "aspekta",
               "collection",
@@ -967,7 +967,7 @@
             "open_issues": 36,
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11391,
+            "stars": 11392,
             "topics": [
               "font",
               "fonts",
@@ -1016,7 +1016,7 @@
             "open_issues": 14,
             "owner": "0xType",
             "repo": "0xProto",
-            "stars": 2911,
+            "stars": 2914,
             "topics": [
               "design",
               "font",
@@ -1069,7 +1069,7 @@
             "open_issues": 21,
             "owner": "blobject",
             "repo": "agave",
-            "stars": 1071,
+            "stars": 1072,
             "topics": [
               "font",
               "monospace",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:10:29.921Z",
+    "last_updated": "2026-10-03T22:11:14.241Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",
