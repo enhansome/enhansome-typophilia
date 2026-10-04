@@ -19,7 +19,7 @@
             "open_issues": 208,
             "owner": "JetBrains",
             "repo": "JetBrainsMono",
-            "stars": 13056,
+            "stars": 13058,
             "topics": [
               "coding-font",
               "font",
@@ -68,7 +68,7 @@
             "open_issues": 4,
             "owner": "calcom",
             "repo": "sans",
-            "stars": 1639,
+            "stars": 1640,
             "topics": [
               "cal-sans",
               "design",
@@ -272,7 +272,7 @@
             "open_issues": 22,
             "owner": "tokotype",
             "repo": "PlusJakartaSans",
-            "stars": 1108,
+            "stars": 1107,
             "topics": [
               "font",
               "ofl",
@@ -352,7 +352,7 @@
             "open_issues": 85,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11670,
+            "stars": 11671,
             "topics": [
               "design",
               "font",
@@ -629,7 +629,7 @@
             "open_issues": 5,
             "owner": "wanteddev",
             "repo": "wanted-sans",
-            "stars": 365,
+            "stars": 366,
             "topics": [
               "font",
               "fonts",
@@ -654,7 +654,7 @@
             "open_issues": 17,
             "owner": "basementstudio",
             "repo": "basement-grotesque",
-            "stars": 336,
+            "stars": 337,
             "topics": [
               "design",
               "font",
@@ -967,7 +967,7 @@
             "open_issues": 36,
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11392,
+            "stars": 11393,
             "topics": [
               "font",
               "fonts",
@@ -1016,7 +1016,7 @@
             "open_issues": 14,
             "owner": "0xType",
             "repo": "0xProto",
-            "stars": 2914,
+            "stars": 2915,
             "topics": [
               "design",
               "font",
@@ -1069,7 +1069,7 @@
             "open_issues": 21,
             "owner": "blobject",
             "repo": "agave",
-            "stars": 1072,
+            "stars": 1073,
             "topics": [
               "font",
               "monospace",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T22:11:14.241Z",
+    "last_updated": "2026-10-04T22:21:52.928Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",
