@@ -19,7 +19,7 @@
             "open_issues": 207,
             "owner": "JetBrains",
             "repo": "JetBrainsMono",
-            "stars": 13061,
+            "stars": 13062,
             "topics": [
               "coding-font",
               "font",
@@ -68,7 +68,7 @@
             "open_issues": 4,
             "owner": "calcom",
             "repo": "sans",
-            "stars": 1641,
+            "stars": 1642,
             "topics": [
               "cal-sans",
               "design",
@@ -995,7 +995,7 @@
             "open_issues": 0,
             "owner": "intel",
             "repo": "intel-one-mono",
-            "stars": 10165,
+            "stars": 10166,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -1066,7 +1066,7 @@
             "language": "Tcl",
             "license": "OFL-1.1",
             "last_commit": "2026-09-15T13:39:24Z",
-            "open_issues": 21,
+            "open_issues": 19,
             "owner": "blobject",
             "repo": "agave",
             "stars": 1073,
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T00:51:55.550Z",
+    "last_updated": "2026-10-06T10:56:05.622Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",
