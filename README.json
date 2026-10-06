@@ -16,10 +16,10 @@
             "language": "Shell",
             "license": "OFL-1.1",
             "last_commit": "2025-01-31T14:05:22Z",
-            "open_issues": 208,
+            "open_issues": 207,
             "owner": "JetBrains",
             "repo": "JetBrainsMono",
-            "stars": 13058,
+            "stars": 13061,
             "topics": [
               "coding-font",
               "font",
@@ -64,11 +64,11 @@
             "id": 423600152,
             "language": "Python",
             "license": "OFL-1.1",
-            "last_commit": "2026-10-02T20:19:43Z",
+            "last_commit": "2026-10-05T23:57:37Z",
             "open_issues": 4,
             "owner": "calcom",
             "repo": "sans",
-            "stars": 1640,
+            "stars": 1641,
             "topics": [
               "cal-sans",
               "design",
@@ -220,8 +220,8 @@
             "id": 208065709,
             "language": "Python",
             "license": "OFL-1.1",
-            "last_commit": "2026-10-01T06:38:57Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-05T15:16:24Z",
+            "open_issues": 0,
             "owner": "balsamiq",
             "repo": "balsamiqsans",
             "stars": 40,
@@ -272,7 +272,7 @@
             "open_issues": 22,
             "owner": "tokotype",
             "repo": "PlusJakartaSans",
-            "stars": 1107,
+            "stars": 1109,
             "topics": [
               "font",
               "ofl",
@@ -348,11 +348,11 @@
             "id": 105702631,
             "language": "CSS",
             "license": "OFL-1.1",
-            "last_commit": "2026-10-02T18:35:02Z",
-            "open_issues": 85,
+            "last_commit": "2026-10-05T15:41:10Z",
+            "open_issues": 86,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11671,
+            "stars": 11673,
             "topics": [
               "design",
               "font",
@@ -377,7 +377,7 @@
             "open_issues": 0,
             "owner": "mozilla",
             "repo": "Fira",
-            "stars": 5136,
+            "stars": 5135,
             "topics": [
               "abandoned",
               "unmaintained"
@@ -434,7 +434,7 @@
             "open_issues": 12,
             "owner": "lauridskern",
             "repo": "open-runde",
-            "stars": 1554,
+            "stars": 1555,
             "topics": [
               "design",
               "font",
@@ -459,7 +459,7 @@
             "open_issues": 4,
             "owner": "RandomMaerks",
             "repo": "Overused-Grotesk",
-            "stars": 796,
+            "stars": 797,
             "topics": [
               "font",
               "grotesk",
@@ -542,7 +542,7 @@
             "open_issues": 0,
             "owner": "ivodolenc",
             "repo": "aspekta",
-            "stars": 554,
+            "stars": 553,
             "topics": [
               "aspekta",
               "collection",
@@ -572,7 +572,7 @@
             "open_issues": 0,
             "owner": "ivodolenc",
             "repo": "aspekta",
-            "stars": 554,
+            "stars": 553,
             "topics": [
               "aspekta",
               "collection",
@@ -995,7 +995,7 @@
             "open_issues": 0,
             "owner": "intel",
             "repo": "intel-one-mono",
-            "stars": 10163,
+            "stars": 10165,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -1016,7 +1016,7 @@
             "open_issues": 14,
             "owner": "0xType",
             "repo": "0xProto",
-            "stars": 2915,
+            "stars": 2918,
             "topics": [
               "design",
               "font",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T22:21:52.928Z",
+    "last_updated": "2026-10-06T00:51:55.550Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",
