@@ -19,7 +19,7 @@
             "open_issues": 207,
             "owner": "JetBrains",
             "repo": "JetBrainsMono",
-            "stars": 13061,
+            "stars": 13064,
             "topics": [
               "coding-font",
               "font",
@@ -64,8 +64,8 @@
             "id": 423600152,
             "language": "Python",
             "license": "OFL-1.1",
-            "last_commit": "2026-10-05T23:57:37Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-07T15:35:34Z",
+            "open_issues": 3,
             "owner": "calcom",
             "repo": "sans",
             "stars": 1643,
@@ -116,7 +116,7 @@
             "open_issues": 35,
             "owner": "RedHatOfficial",
             "repo": "RedHatFont",
-            "stars": 616,
+            "stars": 617,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -220,8 +220,8 @@
             "id": 208065709,
             "language": "Python",
             "license": "OFL-1.1",
-            "last_commit": "2026-10-05T15:16:24Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-07T10:15:44Z",
+            "open_issues": 2,
             "owner": "balsamiq",
             "repo": "balsamiqsans",
             "stars": 40,
@@ -319,7 +319,7 @@
             "open_issues": 7,
             "owner": "sora-xor",
             "repo": "sora-font",
-            "stars": 185,
+            "stars": 186,
             "topics": [
               "font",
               "fonts",
@@ -352,7 +352,7 @@
             "open_issues": 86,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11672,
+            "stars": 11673,
             "topics": [
               "design",
               "font",
@@ -459,7 +459,7 @@
             "open_issues": 4,
             "owner": "RandomMaerks",
             "repo": "Overused-Grotesk",
-            "stars": 796,
+            "stars": 797,
             "topics": [
               "font",
               "grotesk",
@@ -490,7 +490,7 @@
             "open_issues": 12,
             "owner": "marcologous",
             "repo": "Open-Sauce-Fonts",
-            "stars": 703,
+            "stars": 704,
             "topics": [
               "alfredo-marco-pradil",
               "fonts",
@@ -542,7 +542,7 @@
             "open_issues": 0,
             "owner": "ivodolenc",
             "repo": "aspekta",
-            "stars": 553,
+            "stars": 554,
             "topics": [
               "aspekta",
               "collection",
@@ -572,7 +572,7 @@
             "open_issues": 0,
             "owner": "ivodolenc",
             "repo": "aspekta",
-            "stars": 553,
+            "stars": 554,
             "topics": [
               "aspekta",
               "collection",
@@ -602,7 +602,7 @@
             "open_issues": 0,
             "owner": "noirblancrouge",
             "repo": "YoungSerif",
-            "stars": 474,
+            "stars": 476,
             "topics": [
               "font",
               "fonts",
@@ -757,7 +757,7 @@
             "open_issues": 0,
             "owner": "noirblancrouge",
             "repo": "Formera",
-            "stars": 179,
+            "stars": 180,
             "topics": [
               "font",
               "fonts",
@@ -967,7 +967,7 @@
             "open_issues": 36,
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11392,
+            "stars": 11393,
             "topics": [
               "font",
               "fonts",
@@ -995,7 +995,7 @@
             "open_issues": 0,
             "owner": "intel",
             "repo": "intel-one-mono",
-            "stars": 10166,
+            "stars": 10169,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -1042,7 +1042,7 @@
             "open_issues": 19,
             "owner": "IdreesInc",
             "repo": "Miracode",
-            "stars": 1397,
+            "stars": 1396,
             "topics": [
               "font",
               "fonts",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T23:06:27.851Z",
+    "last_updated": "2026-10-07T23:36:55.996Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",
