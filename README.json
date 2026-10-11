@@ -19,7 +19,7 @@
             "open_issues": 209,
             "owner": "JetBrains",
             "repo": "JetBrainsMono",
-            "stars": 13071,
+            "stars": 13072,
             "topics": [
               "coding-font",
               "font",
@@ -68,7 +68,7 @@
             "open_issues": 4,
             "owner": "calcom",
             "repo": "sans",
-            "stars": 1659,
+            "stars": 1660,
             "topics": [
               "cal-sans",
               "design",
@@ -352,7 +352,7 @@
             "open_issues": 86,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11685,
+            "stars": 11686,
             "topics": [
               "design",
               "font",
@@ -434,7 +434,7 @@
             "open_issues": 12,
             "owner": "lauridskern",
             "repo": "open-runde",
-            "stars": 1558,
+            "stars": 1559,
             "topics": [
               "design",
               "font",
@@ -459,7 +459,7 @@
             "open_issues": 4,
             "owner": "RandomMaerks",
             "repo": "Overused-Grotesk",
-            "stars": 798,
+            "stars": 799,
             "topics": [
               "font",
               "grotesk",
@@ -846,7 +846,7 @@
             "open_issues": 4,
             "owner": "Fontself",
             "repo": "TypeWithPride",
-            "stars": 90,
+            "stars": 91,
             "topics": [
               "color",
               "colorfont",
@@ -898,7 +898,7 @@
             "open_issues": 5,
             "owner": "StefanPeev",
             "repo": "Common-Sans",
-            "stars": 40,
+            "stars": 41,
             "topics": [
               "bulgarian",
               "cyrillic",
@@ -967,7 +967,7 @@
             "open_issues": 36,
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11401,
+            "stars": 11400,
             "topics": [
               "font",
               "fonts",
@@ -995,7 +995,7 @@
             "open_issues": 0,
             "owner": "intel",
             "repo": "intel-one-mono",
-            "stars": 10167,
+            "stars": 10169,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T22:39:26.606Z",
+    "last_updated": "2026-10-11T22:58:03.608Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",
