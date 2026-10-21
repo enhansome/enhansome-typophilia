@@ -19,7 +19,7 @@
             "open_issues": 209,
             "owner": "JetBrains",
             "repo": "JetBrainsMono",
-            "stars": 13103,
+            "stars": 13105,
             "topics": [
               "coding-font",
               "font",
@@ -47,7 +47,7 @@
             "open_issues": 12,
             "owner": "iaolo",
             "repo": "iA-Fonts",
-            "stars": 4181,
+            "stars": 4182,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -68,7 +68,7 @@
             "open_issues": 7,
             "owner": "calcom",
             "repo": "sans",
-            "stars": 1730,
+            "stars": 1731,
             "topics": [
               "cal-sans",
               "design",
@@ -158,7 +158,7 @@
             "open_issues": 6,
             "owner": "twilio",
             "repo": "twilio-sans-mono",
-            "stars": 317,
+            "stars": 316,
             "topics": [
               "monospace-font",
               "twilio"
@@ -272,7 +272,7 @@
             "open_issues": 22,
             "owner": "tokotype",
             "repo": "PlusJakartaSans",
-            "stars": 1115,
+            "stars": 1116,
             "topics": [
               "font",
               "ofl",
@@ -352,7 +352,7 @@
             "open_issues": 85,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11716,
+            "stars": 11718,
             "topics": [
               "design",
               "font",
@@ -490,7 +490,7 @@
             "open_issues": 13,
             "owner": "marcologous",
             "repo": "Open-Sauce-Fonts",
-            "stars": 707,
+            "stars": 708,
             "topics": [
               "alfredo-marco-pradil",
               "fonts",
@@ -542,7 +542,7 @@
             "open_issues": 0,
             "owner": "ivodolenc",
             "repo": "aspekta",
-            "stars": 560,
+            "stars": 561,
             "topics": [
               "aspekta",
               "collection",
@@ -572,7 +572,7 @@
             "open_issues": 0,
             "owner": "ivodolenc",
             "repo": "aspekta",
-            "stars": 560,
+            "stars": 561,
             "topics": [
               "aspekta",
               "collection",
@@ -602,7 +602,7 @@
             "open_issues": 0,
             "owner": "noirblancrouge",
             "repo": "YoungSerif",
-            "stars": 477,
+            "stars": 478,
             "topics": [
               "font",
               "fonts",
@@ -707,7 +707,7 @@
             "open_issues": 5,
             "owner": "somefreefonts",
             "repo": "techna-sans",
-            "stars": 252,
+            "stars": 253,
             "topics": [
               "font",
               "typeface"
@@ -967,7 +967,7 @@
             "open_issues": 37,
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11430,
+            "stars": 11433,
             "topics": [
               "font",
               "fonts",
@@ -995,7 +995,7 @@
             "open_issues": 17,
             "owner": "intel",
             "repo": "intel-one-mono",
-            "stars": 10177,
+            "stars": 10175,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -1016,7 +1016,7 @@
             "open_issues": 15,
             "owner": "0xType",
             "repo": "0xProto",
-            "stars": 2937,
+            "stars": 2940,
             "topics": [
               "design",
               "font",
@@ -1069,7 +1069,7 @@
             "open_issues": 19,
             "owner": "blobject",
             "repo": "agave",
-            "stars": 1079,
+            "stars": 1080,
             "topics": [
               "font",
               "monospace",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T22:23:25.403Z",
+    "last_updated": "2026-10-21T22:27:01.616Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",
@@ -1097,7 +1097,7 @@
       "open_issues": 1,
       "owner": "subidit",
       "repo": "typophilia",
-      "stars": 125,
+      "stars": 126,
       "topics": [
         "awesome",
         "awesome-list",
