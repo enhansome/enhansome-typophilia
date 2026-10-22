@@ -16,10 +16,10 @@
             "language": "Shell",
             "license": "OFL-1.1",
             "last_commit": "2025-01-31T14:05:22Z",
-            "open_issues": 209,
+            "open_issues": 210,
             "owner": "JetBrains",
             "repo": "JetBrainsMono",
-            "stars": 13105,
+            "stars": 13108,
             "topics": [
               "coding-font",
               "font",
@@ -47,7 +47,7 @@
             "open_issues": 12,
             "owner": "iaolo",
             "repo": "iA-Fonts",
-            "stars": 4182,
+            "stars": 4183,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -68,7 +68,7 @@
             "open_issues": 7,
             "owner": "calcom",
             "repo": "sans",
-            "stars": 1731,
+            "stars": 1732,
             "topics": [
               "cal-sans",
               "design",
@@ -158,7 +158,7 @@
             "open_issues": 6,
             "owner": "twilio",
             "repo": "twilio-sans-mono",
-            "stars": 316,
+            "stars": 317,
             "topics": [
               "monospace-font",
               "twilio"
@@ -319,7 +319,7 @@
             "open_issues": 7,
             "owner": "sora-xor",
             "repo": "sora-font",
-            "stars": 186,
+            "stars": 187,
             "topics": [
               "font",
               "fonts",
@@ -352,7 +352,7 @@
             "open_issues": 85,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11718,
+            "stars": 11723,
             "topics": [
               "design",
               "font",
@@ -459,7 +459,7 @@
             "open_issues": 4,
             "owner": "RandomMaerks",
             "repo": "Overused-Grotesk",
-            "stars": 804,
+            "stars": 806,
             "topics": [
               "font",
               "grotesk",
@@ -629,7 +629,7 @@
             "open_issues": 6,
             "owner": "wanteddev",
             "repo": "wanted-sans",
-            "stars": 369,
+            "stars": 368,
             "topics": [
               "font",
               "fonts",
@@ -967,7 +967,7 @@
             "open_issues": 37,
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11433,
+            "stars": 11438,
             "topics": [
               "font",
               "fonts",
@@ -992,10 +992,10 @@
             "language": null,
             "license": "OFL-1.1",
             "last_commit": "2026-10-13T16:22:29Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "intel",
             "repo": "intel-one-mono",
-            "stars": 10175,
+            "stars": 10176,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -1016,7 +1016,7 @@
             "open_issues": 15,
             "owner": "0xType",
             "repo": "0xProto",
-            "stars": 2940,
+            "stars": 2941,
             "topics": [
               "design",
               "font",
@@ -1069,7 +1069,7 @@
             "open_issues": 19,
             "owner": "blobject",
             "repo": "agave",
-            "stars": 1080,
+            "stars": 1082,
             "topics": [
               "font",
               "monospace",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T22:27:01.616Z",
+    "last_updated": "2026-10-22T22:27:11.690Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",
