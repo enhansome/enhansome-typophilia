@@ -19,7 +19,7 @@
             "open_issues": 210,
             "owner": "JetBrains",
             "repo": "JetBrainsMono",
-            "stars": 13108,
+            "stars": 13111,
             "topics": [
               "coding-font",
               "font",
@@ -47,7 +47,7 @@
             "open_issues": 12,
             "owner": "iaolo",
             "repo": "iA-Fonts",
-            "stars": 4183,
+            "stars": 4184,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -68,7 +68,7 @@
             "open_issues": 7,
             "owner": "calcom",
             "repo": "sans",
-            "stars": 1732,
+            "stars": 1735,
             "topics": [
               "cal-sans",
               "design",
@@ -224,7 +224,7 @@
             "open_issues": 0,
             "owner": "balsamiq",
             "repo": "balsamiqsans",
-            "stars": 42,
+            "stars": 43,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -272,7 +272,7 @@
             "open_issues": 22,
             "owner": "tokotype",
             "repo": "PlusJakartaSans",
-            "stars": 1116,
+            "stars": 1117,
             "topics": [
               "font",
               "ofl",
@@ -352,7 +352,7 @@
             "open_issues": 85,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11723,
+            "stars": 11724,
             "topics": [
               "design",
               "font",
@@ -434,7 +434,7 @@
             "open_issues": 12,
             "owner": "lauridskern",
             "repo": "open-runde",
-            "stars": 1560,
+            "stars": 1563,
             "topics": [
               "design",
               "font",
@@ -490,7 +490,7 @@
             "open_issues": 13,
             "owner": "marcologous",
             "repo": "Open-Sauce-Fonts",
-            "stars": 708,
+            "stars": 709,
             "topics": [
               "alfredo-marco-pradil",
               "fonts",
@@ -602,7 +602,7 @@
             "open_issues": 0,
             "owner": "noirblancrouge",
             "repo": "YoungSerif",
-            "stars": 478,
+            "stars": 479,
             "topics": [
               "font",
               "fonts",
@@ -629,7 +629,7 @@
             "open_issues": 6,
             "owner": "wanteddev",
             "repo": "wanted-sans",
-            "stars": 368,
+            "stars": 369,
             "topics": [
               "font",
               "fonts",
@@ -846,7 +846,7 @@
             "open_issues": 4,
             "owner": "Fontself",
             "repo": "TypeWithPride",
-            "stars": 91,
+            "stars": 92,
             "topics": [
               "color",
               "colorfont",
@@ -967,7 +967,7 @@
             "open_issues": 37,
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11438,
+            "stars": 11440,
             "topics": [
               "font",
               "fonts",
@@ -995,7 +995,7 @@
             "open_issues": 18,
             "owner": "intel",
             "repo": "intel-one-mono",
-            "stars": 10176,
+            "stars": 10188,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -1016,7 +1016,7 @@
             "open_issues": 15,
             "owner": "0xType",
             "repo": "0xProto",
-            "stars": 2941,
+            "stars": 2942,
             "topics": [
               "design",
               "font",
@@ -1069,7 +1069,7 @@
             "open_issues": 19,
             "owner": "blobject",
             "repo": "agave",
-            "stars": 1082,
+            "stars": 1083,
             "topics": [
               "font",
               "monospace",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T22:27:11.690Z",
+    "last_updated": "2026-10-23T22:19:59.164Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",
