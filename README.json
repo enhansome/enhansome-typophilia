@@ -19,7 +19,7 @@
             "open_issues": 210,
             "owner": "JetBrains",
             "repo": "JetBrainsMono",
-            "stars": 13113,
+            "stars": 13115,
             "topics": [
               "coding-font",
               "font",
@@ -44,10 +44,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-02T17:49:13Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "iaolo",
             "repo": "iA-Fonts",
-            "stars": 4185,
+            "stars": 4184,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -68,7 +68,7 @@
             "open_issues": 7,
             "owner": "calcom",
             "repo": "sans",
-            "stars": 1735,
+            "stars": 1736,
             "topics": [
               "cal-sans",
               "design",
@@ -116,7 +116,7 @@
             "open_issues": 35,
             "owner": "RedHatOfficial",
             "repo": "RedHatFont",
-            "stars": 620,
+            "stars": 621,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -352,7 +352,7 @@
             "open_issues": 87,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11727,
+            "stars": 11730,
             "topics": [
               "design",
               "font",
@@ -377,7 +377,7 @@
             "open_issues": 0,
             "owner": "mozilla",
             "repo": "Fira",
-            "stars": 5136,
+            "stars": 5137,
             "topics": [
               "abandoned",
               "unmaintained"
@@ -401,7 +401,7 @@
             "open_issues": 5,
             "owner": "petykowski",
             "repo": "London-Underground-Dot-Matrix-Typeface",
-            "stars": 1612,
+            "stars": 1613,
             "topics": [
               "dlr",
               "font",
@@ -434,7 +434,7 @@
             "open_issues": 12,
             "owner": "lauridskern",
             "repo": "open-runde",
-            "stars": 1563,
+            "stars": 1565,
             "topics": [
               "design",
               "font",
@@ -455,7 +455,7 @@
             "id": 671886356,
             "language": "Python",
             "license": "OFL-1.1",
-            "last_commit": "2026-03-28T12:17:24Z",
+            "last_commit": "2026-10-25T10:06:52Z",
             "open_issues": 4,
             "owner": "RandomMaerks",
             "repo": "Overused-Grotesk",
@@ -629,7 +629,7 @@
             "open_issues": 6,
             "owner": "wanteddev",
             "repo": "wanted-sans",
-            "stars": 369,
+            "stars": 370,
             "topics": [
               "font",
               "fonts",
@@ -967,7 +967,7 @@
             "open_issues": 37,
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11441,
+            "stars": 11442,
             "topics": [
               "font",
               "fonts",
@@ -995,7 +995,7 @@
             "open_issues": 18,
             "owner": "intel",
             "repo": "intel-one-mono",
-            "stars": 10188,
+            "stars": 10192,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -1016,7 +1016,7 @@
             "open_issues": 15,
             "owner": "0xType",
             "repo": "0xProto",
-            "stars": 2941,
+            "stars": 2943,
             "topics": [
               "design",
               "font",
@@ -1042,7 +1042,7 @@
             "open_issues": 22,
             "owner": "IdreesInc",
             "repo": "Miracode",
-            "stars": 1401,
+            "stars": 1402,
             "topics": [
               "font",
               "fonts",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T21:40:08.940Z",
+    "last_updated": "2026-10-25T21:53:09.299Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",
