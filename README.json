@@ -16,10 +16,10 @@
             "language": "Shell",
             "license": "OFL-1.1",
             "last_commit": "2025-01-31T14:05:22Z",
-            "open_issues": 210,
+            "open_issues": 211,
             "owner": "JetBrains",
             "repo": "JetBrainsMono",
-            "stars": 13129,
+            "stars": 13134,
             "topics": [
               "coding-font",
               "font",
@@ -47,7 +47,7 @@
             "open_issues": 13,
             "owner": "iaolo",
             "repo": "iA-Fonts",
-            "stars": 4185,
+            "stars": 4184,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -68,7 +68,7 @@
             "open_issues": 6,
             "owner": "calcom",
             "repo": "sans",
-            "stars": 1740,
+            "stars": 1742,
             "topics": [
               "cal-sans",
               "design",
@@ -272,7 +272,7 @@
             "open_issues": 22,
             "owner": "tokotype",
             "repo": "PlusJakartaSans",
-            "stars": 1119,
+            "stars": 1121,
             "topics": [
               "font",
               "ofl",
@@ -298,7 +298,7 @@
             "open_issues": 11,
             "owner": "cooperhewitt",
             "repo": "cooperhewitt-typeface",
-            "stars": 427,
+            "stars": 428,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -352,7 +352,7 @@
             "open_issues": 84,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11732,
+            "stars": 11733,
             "topics": [
               "design",
               "font",
@@ -434,7 +434,7 @@
             "open_issues": 13,
             "owner": "lauridskern",
             "repo": "open-runde",
-            "stars": 1569,
+            "stars": 1571,
             "topics": [
               "design",
               "font",
@@ -517,7 +517,7 @@
             "open_issues": 6,
             "owner": "anewtypeofinterference",
             "repo": "Optician-Sans",
-            "stars": 706,
+            "stars": 707,
             "topics": [
               "font",
               "opticians",
@@ -995,7 +995,7 @@
             "open_issues": 18,
             "owner": "intel",
             "repo": "intel-one-mono",
-            "stars": 10198,
+            "stars": 10200,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -1016,7 +1016,7 @@
             "open_issues": 15,
             "owner": "0xType",
             "repo": "0xProto",
-            "stars": 2946,
+            "stars": 2948,
             "topics": [
               "design",
               "font",
@@ -1042,7 +1042,7 @@
             "open_issues": 23,
             "owner": "IdreesInc",
             "repo": "Miracode",
-            "stars": 1402,
+            "stars": 1404,
             "topics": [
               "font",
               "fonts",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T23:18:45.617Z",
+    "last_updated": "2026-10-29T23:22:16.609Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",
