@@ -19,7 +19,7 @@
             "open_issues": 211,
             "owner": "JetBrains",
             "repo": "JetBrainsMono",
-            "stars": 13135,
+            "stars": 13136,
             "topics": [
               "coding-font",
               "font",
@@ -95,7 +95,7 @@
             "open_issues": 7,
             "owner": "AppleDesignResources",
             "repo": "SanFranciscoFont",
-            "stars": 1089,
+            "stars": 1088,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -352,7 +352,7 @@
             "open_issues": 85,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11733,
+            "stars": 11735,
             "topics": [
               "design",
               "font",
@@ -459,7 +459,7 @@
             "open_issues": 4,
             "owner": "RandomMaerks",
             "repo": "Overused-Grotesk",
-            "stars": 819,
+            "stars": 821,
             "topics": [
               "font",
               "grotesk",
@@ -654,7 +654,7 @@
             "open_issues": 17,
             "owner": "basementstudio",
             "repo": "basement-grotesque",
-            "stars": 337,
+            "stars": 338,
             "topics": [
               "design",
               "font",
@@ -679,7 +679,7 @@
             "open_issues": 13,
             "owner": "Outfitio",
             "repo": "Outfit-Fonts",
-            "stars": 327,
+            "stars": 328,
             "topics": [
               "font",
               "geometric",
@@ -967,7 +967,7 @@
             "open_issues": 37,
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11449,
+            "stars": 11454,
             "topics": [
               "font",
               "fonts",
@@ -995,7 +995,7 @@
             "open_issues": 18,
             "owner": "intel",
             "repo": "intel-one-mono",
-            "stars": 10201,
+            "stars": 10202,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -1016,7 +1016,7 @@
             "open_issues": 15,
             "owner": "0xType",
             "repo": "0xProto",
-            "stars": 2950,
+            "stars": 2952,
             "topics": [
               "design",
               "font",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T23:01:38.852Z",
+    "last_updated": "2026-10-31T22:34:32.532Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",
