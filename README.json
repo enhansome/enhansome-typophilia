@@ -19,7 +19,7 @@
             "open_issues": 211,
             "owner": "JetBrains",
             "repo": "JetBrainsMono",
-            "stars": 13136,
+            "stars": 13140,
             "topics": [
               "coding-font",
               "font",
@@ -65,10 +65,10 @@
             "language": "Python",
             "license": "OFL-1.1",
             "last_commit": "2026-10-16T21:00:18Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "calcom",
             "repo": "sans",
-            "stars": 1744,
+            "stars": 1745,
             "topics": [
               "cal-sans",
               "design",
@@ -272,7 +272,7 @@
             "open_issues": 22,
             "owner": "tokotype",
             "repo": "PlusJakartaSans",
-            "stars": 1120,
+            "stars": 1122,
             "topics": [
               "font",
               "ofl",
@@ -352,7 +352,7 @@
             "open_issues": 85,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11735,
+            "stars": 11738,
             "topics": [
               "design",
               "font",
@@ -629,7 +629,7 @@
             "open_issues": 6,
             "owner": "wanteddev",
             "repo": "wanted-sans",
-            "stars": 371,
+            "stars": 372,
             "topics": [
               "font",
               "fonts",
@@ -967,7 +967,7 @@
             "open_issues": 37,
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11454,
+            "stars": 11457,
             "topics": [
               "font",
               "fonts",
@@ -1016,7 +1016,7 @@
             "open_issues": 15,
             "owner": "0xType",
             "repo": "0xProto",
-            "stars": 2952,
+            "stars": 2954,
             "topics": [
               "design",
               "font",
@@ -1042,7 +1042,7 @@
             "open_issues": 23,
             "owner": "IdreesInc",
             "repo": "Miracode",
-            "stars": 1406,
+            "stars": 1405,
             "topics": [
               "font",
               "fonts",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T22:34:32.532Z",
+    "last_updated": "2026-11-01T22:54:11.936Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",
@@ -1097,7 +1097,7 @@
       "open_issues": 1,
       "owner": "subidit",
       "repo": "typophilia",
-      "stars": 126,
+      "stars": 127,
       "topics": [
         "awesome",
         "awesome-list",
