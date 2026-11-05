@@ -19,7 +19,7 @@
             "open_issues": 211,
             "owner": "JetBrains",
             "repo": "JetBrainsMono",
-            "stars": 13148,
+            "stars": 13149,
             "topics": [
               "coding-font",
               "font",
@@ -47,7 +47,7 @@
             "open_issues": 13,
             "owner": "iaolo",
             "repo": "iA-Fonts",
-            "stars": 4189,
+            "stars": 4188,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -64,11 +64,11 @@
             "id": 423600152,
             "language": "Python",
             "license": "OFL-1.1",
-            "last_commit": "2026-10-16T21:00:18Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-04T07:34:45Z",
+            "open_issues": 4,
             "owner": "calcom",
             "repo": "sans",
-            "stars": 1745,
+            "stars": 1747,
             "topics": [
               "cal-sans",
               "design",
@@ -319,7 +319,7 @@
             "open_issues": 7,
             "owner": "sora-xor",
             "repo": "sora-font",
-            "stars": 187,
+            "stars": 188,
             "topics": [
               "font",
               "fonts",
@@ -348,11 +348,11 @@
             "id": 105702631,
             "language": "CSS",
             "license": "OFL-1.1",
-            "last_commit": "2026-11-03T12:20:44Z",
-            "open_issues": 86,
+            "last_commit": "2026-11-04T12:28:25Z",
+            "open_issues": 85,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11744,
+            "stars": 11746,
             "topics": [
               "design",
               "font",
@@ -377,7 +377,7 @@
             "open_issues": 0,
             "owner": "mozilla",
             "repo": "Fira",
-            "stars": 5132,
+            "stars": 5131,
             "topics": [
               "abandoned",
               "unmaintained"
@@ -434,7 +434,7 @@
             "open_issues": 13,
             "owner": "lauridskern",
             "repo": "open-runde",
-            "stars": 1573,
+            "stars": 1579,
             "topics": [
               "design",
               "font",
@@ -542,7 +542,7 @@
             "open_issues": 0,
             "owner": "ivodolenc",
             "repo": "aspekta",
-            "stars": 560,
+            "stars": 561,
             "topics": [
               "aspekta",
               "collection",
@@ -572,7 +572,7 @@
             "open_issues": 0,
             "owner": "ivodolenc",
             "repo": "aspekta",
-            "stars": 560,
+            "stars": 561,
             "topics": [
               "aspekta",
               "collection",
@@ -654,7 +654,7 @@
             "open_issues": 17,
             "owner": "basementstudio",
             "repo": "basement-grotesque",
-            "stars": 337,
+            "stars": 336,
             "topics": [
               "design",
               "font",
@@ -967,7 +967,7 @@
             "open_issues": 37,
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11462,
+            "stars": 11465,
             "topics": [
               "font",
               "fonts",
@@ -991,11 +991,11 @@
             "id": 626613254,
             "language": null,
             "license": "OFL-1.1",
-            "last_commit": "2026-10-13T16:22:29Z",
-            "open_issues": 18,
+            "last_commit": "2026-11-04T18:03:43Z",
+            "open_issues": 14,
             "owner": "intel",
             "repo": "intel-one-mono",
-            "stars": 10202,
+            "stars": 10209,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T00:01:16.833Z",
+    "last_updated": "2026-11-05T00:25:22.912Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",
