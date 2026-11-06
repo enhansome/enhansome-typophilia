@@ -19,7 +19,7 @@
             "open_issues": 211,
             "owner": "JetBrains",
             "repo": "JetBrainsMono",
-            "stars": 13152,
+            "stars": 13151,
             "topics": [
               "coding-font",
               "font",
@@ -47,7 +47,7 @@
             "open_issues": 13,
             "owner": "iaolo",
             "repo": "iA-Fonts",
-            "stars": 4188,
+            "stars": 4191,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -68,7 +68,7 @@
             "open_issues": 4,
             "owner": "calcom",
             "repo": "sans",
-            "stars": 1747,
+            "stars": 1749,
             "topics": [
               "cal-sans",
               "design",
@@ -272,7 +272,7 @@
             "open_issues": 22,
             "owner": "tokotype",
             "repo": "PlusJakartaSans",
-            "stars": 1123,
+            "stars": 1125,
             "topics": [
               "font",
               "ofl",
@@ -349,10 +349,10 @@
             "language": "CSS",
             "license": "OFL-1.1",
             "last_commit": "2026-11-04T12:28:25Z",
-            "open_issues": 85,
+            "open_issues": 86,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11748,
+            "stars": 11750,
             "topics": [
               "design",
               "font",
@@ -377,7 +377,7 @@
             "open_issues": 0,
             "owner": "mozilla",
             "repo": "Fira",
-            "stars": 5131,
+            "stars": 5130,
             "topics": [
               "abandoned",
               "unmaintained"
@@ -434,7 +434,7 @@
             "open_issues": 13,
             "owner": "lauridskern",
             "repo": "open-runde",
-            "stars": 1583,
+            "stars": 1582,
             "topics": [
               "design",
               "font",
@@ -964,10 +964,10 @@
             "language": "Python",
             "license": "OFL-1.1",
             "last_commit": "2026-05-27T21:49:03Z",
-            "open_issues": 37,
+            "open_issues": 38,
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11465,
+            "stars": 11466,
             "topics": [
               "font",
               "fonts",
@@ -995,7 +995,7 @@
             "open_issues": 14,
             "owner": "intel",
             "repo": "intel-one-mono",
-            "stars": 10233,
+            "stars": 10244,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -1042,7 +1042,7 @@
             "open_issues": 23,
             "owner": "IdreesInc",
             "repo": "Miracode",
-            "stars": 1405,
+            "stars": 1404,
             "topics": [
               "font",
               "fonts",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T00:24:14.957Z",
+    "last_updated": "2026-11-06T23:44:39.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",
