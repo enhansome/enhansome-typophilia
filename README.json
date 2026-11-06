@@ -19,7 +19,7 @@
             "open_issues": 211,
             "owner": "JetBrains",
             "repo": "JetBrainsMono",
-            "stars": 13149,
+            "stars": 13152,
             "topics": [
               "coding-font",
               "font",
@@ -116,7 +116,7 @@
             "open_issues": 35,
             "owner": "RedHatOfficial",
             "repo": "RedHatFont",
-            "stars": 622,
+            "stars": 623,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -272,7 +272,7 @@
             "open_issues": 22,
             "owner": "tokotype",
             "repo": "PlusJakartaSans",
-            "stars": 1121,
+            "stars": 1123,
             "topics": [
               "font",
               "ofl",
@@ -352,7 +352,7 @@
             "open_issues": 85,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11746,
+            "stars": 11748,
             "topics": [
               "design",
               "font",
@@ -434,7 +434,7 @@
             "open_issues": 13,
             "owner": "lauridskern",
             "repo": "open-runde",
-            "stars": 1579,
+            "stars": 1583,
             "topics": [
               "design",
               "font",
@@ -995,7 +995,7 @@
             "open_issues": 14,
             "owner": "intel",
             "repo": "intel-one-mono",
-            "stars": 10209,
+            "stars": 10233,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -1069,7 +1069,7 @@
             "open_issues": 19,
             "owner": "blobject",
             "repo": "agave",
-            "stars": 1087,
+            "stars": 1088,
             "topics": [
               "font",
               "monospace",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T00:25:22.912Z",
+    "last_updated": "2026-11-06T00:24:14.957Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",
