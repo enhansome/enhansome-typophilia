@@ -19,7 +19,7 @@
             "open_issues": 211,
             "owner": "JetBrains",
             "repo": "JetBrainsMono",
-            "stars": 13161,
+            "stars": 13166,
             "topics": [
               "coding-font",
               "font",
@@ -68,7 +68,7 @@
             "open_issues": 4,
             "owner": "calcom",
             "repo": "sans",
-            "stars": 1752,
+            "stars": 1753,
             "topics": [
               "cal-sans",
               "design",
@@ -116,7 +116,7 @@
             "open_issues": 35,
             "owner": "RedHatOfficial",
             "repo": "RedHatFont",
-            "stars": 623,
+            "stars": 624,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -298,7 +298,7 @@
             "open_issues": 11,
             "owner": "cooperhewitt",
             "repo": "cooperhewitt-typeface",
-            "stars": 428,
+            "stars": 427,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -434,7 +434,7 @@
             "open_issues": 13,
             "owner": "lauridskern",
             "repo": "open-runde",
-            "stars": 1591,
+            "stars": 1598,
             "topics": [
               "design",
               "font",
@@ -459,7 +459,7 @@
             "open_issues": 4,
             "owner": "RandomMaerks",
             "repo": "Overused-Grotesk",
-            "stars": 824,
+            "stars": 823,
             "topics": [
               "font",
               "grotesk",
@@ -490,7 +490,7 @@
             "open_issues": 13,
             "owner": "marcologous",
             "repo": "Open-Sauce-Fonts",
-            "stars": 709,
+            "stars": 710,
             "topics": [
               "alfredo-marco-pradil",
               "fonts",
@@ -967,7 +967,7 @@
             "open_issues": 38,
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11477,
+            "stars": 11481,
             "topics": [
               "font",
               "fonts",
@@ -995,7 +995,7 @@
             "open_issues": 14,
             "owner": "intel",
             "repo": "intel-one-mono",
-            "stars": 10252,
+            "stars": 10256,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -1016,7 +1016,7 @@
             "open_issues": 15,
             "owner": "0xType",
             "repo": "0xProto",
-            "stars": 2959,
+            "stars": 2963,
             "topics": [
               "design",
               "font",
@@ -1042,7 +1042,7 @@
             "open_issues": 23,
             "owner": "IdreesInc",
             "repo": "Miracode",
-            "stars": 1405,
+            "stars": 1406,
             "topics": [
               "font",
               "fonts",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T02:16:01.645Z",
+    "last_updated": "2026-11-11T00:05:36.333Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",
