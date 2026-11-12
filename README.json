@@ -19,7 +19,7 @@
             "open_issues": 211,
             "owner": "JetBrains",
             "repo": "JetBrainsMono",
-            "stars": 13166,
+            "stars": 13169,
             "topics": [
               "coding-font",
               "font",
@@ -47,7 +47,7 @@
             "open_issues": 13,
             "owner": "iaolo",
             "repo": "iA-Fonts",
-            "stars": 4195,
+            "stars": 4193,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -68,7 +68,7 @@
             "open_issues": 4,
             "owner": "calcom",
             "repo": "sans",
-            "stars": 1753,
+            "stars": 1752,
             "topics": [
               "cal-sans",
               "design",
@@ -116,7 +116,7 @@
             "open_issues": 35,
             "owner": "RedHatOfficial",
             "repo": "RedHatFont",
-            "stars": 624,
+            "stars": 626,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -348,11 +348,11 @@
             "id": 105702631,
             "language": "CSS",
             "license": "OFL-1.1",
-            "last_commit": "2026-11-04T12:28:25Z",
-            "open_issues": 85,
+            "last_commit": "2026-11-11T19:44:42Z",
+            "open_issues": 86,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11764,
+            "stars": 11769,
             "topics": [
               "design",
               "font",
@@ -377,7 +377,7 @@
             "open_issues": 0,
             "owner": "mozilla",
             "repo": "Fira",
-            "stars": 5130,
+            "stars": 5129,
             "topics": [
               "abandoned",
               "unmaintained"
@@ -431,10 +431,10 @@
             "language": null,
             "license": "OFL-1.1",
             "last_commit": "2026-07-25T15:28:04Z",
-            "open_issues": 13,
+            "open_issues": 12,
             "owner": "lauridskern",
             "repo": "open-runde",
-            "stars": 1598,
+            "stars": 1600,
             "topics": [
               "design",
               "font",
@@ -629,7 +629,7 @@
             "open_issues": 6,
             "owner": "wanteddev",
             "repo": "wanted-sans",
-            "stars": 374,
+            "stars": 375,
             "topics": [
               "font",
               "fonts",
@@ -808,7 +808,7 @@
             "open_issues": 2,
             "owner": "EthanNakache",
             "repo": "Sprat-type",
-            "stars": 98,
+            "stars": 99,
             "topics": [
               "display",
               "ethan",
@@ -967,7 +967,7 @@
             "open_issues": 38,
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11481,
+            "stars": 11482,
             "topics": [
               "font",
               "fonts",
@@ -995,7 +995,7 @@
             "open_issues": 14,
             "owner": "intel",
             "repo": "intel-one-mono",
-            "stars": 10256,
+            "stars": 10258,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -1016,7 +1016,7 @@
             "open_issues": 15,
             "owner": "0xType",
             "repo": "0xProto",
-            "stars": 2963,
+            "stars": 2964,
             "topics": [
               "design",
               "font",
@@ -1069,7 +1069,7 @@
             "open_issues": 19,
             "owner": "blobject",
             "repo": "agave",
-            "stars": 1089,
+            "stars": 1090,
             "topics": [
               "font",
               "monospace",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T00:05:36.333Z",
+    "last_updated": "2026-11-12T01:34:16.706Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",
