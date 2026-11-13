@@ -47,7 +47,7 @@
             "open_issues": 13,
             "owner": "iaolo",
             "repo": "iA-Fonts",
-            "stars": 4193,
+            "stars": 4194,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -116,7 +116,7 @@
             "open_issues": 35,
             "owner": "RedHatOfficial",
             "repo": "RedHatFont",
-            "stars": 626,
+            "stars": 627,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -148,7 +148,7 @@
           "description": "by Sharp Type",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Twilio Sans Mono is a beautiful and extensive open source programming font",
             "homepage": "https://www.twilio.com/blog/power-up-your-code-with-twilio-sans",
             "id": 558058697,
@@ -348,11 +348,11 @@
             "id": 105702631,
             "language": "CSS",
             "license": "OFL-1.1",
-            "last_commit": "2026-11-11T19:44:42Z",
+            "last_commit": "2026-11-12T13:43:42Z",
             "open_issues": 86,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11769,
+            "stars": 11771,
             "topics": [
               "design",
               "font",
@@ -629,7 +629,7 @@
             "open_issues": 6,
             "owner": "wanteddev",
             "repo": "wanted-sans",
-            "stars": 375,
+            "stars": 374,
             "topics": [
               "font",
               "fonts",
@@ -967,7 +967,7 @@
             "open_issues": 38,
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11482,
+            "stars": 11484,
             "topics": [
               "font",
               "fonts",
@@ -995,7 +995,7 @@
             "open_issues": 14,
             "owner": "intel",
             "repo": "intel-one-mono",
-            "stars": 10258,
+            "stars": 10259,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -1016,7 +1016,7 @@
             "open_issues": 15,
             "owner": "0xType",
             "repo": "0xProto",
-            "stars": 2964,
+            "stars": 2965,
             "topics": [
               "design",
               "font",
@@ -1042,7 +1042,7 @@
             "open_issues": 23,
             "owner": "IdreesInc",
             "repo": "Miracode",
-            "stars": 1406,
+            "stars": 1408,
             "topics": [
               "font",
               "fonts",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T01:34:16.706Z",
+    "last_updated": "2026-11-13T00:32:45.337Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",
