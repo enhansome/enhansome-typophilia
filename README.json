@@ -19,7 +19,7 @@
             "open_issues": 211,
             "owner": "JetBrains",
             "repo": "JetBrainsMono",
-            "stars": 13183,
+            "stars": 13182,
             "topics": [
               "coding-font",
               "font",
@@ -47,7 +47,7 @@
             "open_issues": 13,
             "owner": "iaolo",
             "repo": "iA-Fonts",
-            "stars": 4198,
+            "stars": 4200,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -116,7 +116,7 @@
             "open_issues": 35,
             "owner": "RedHatOfficial",
             "repo": "RedHatFont",
-            "stars": 628,
+            "stars": 629,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -434,7 +434,7 @@
             "open_issues": 12,
             "owner": "lauridskern",
             "repo": "open-runde",
-            "stars": 1605,
+            "stars": 1606,
             "topics": [
               "design",
               "font",
@@ -995,7 +995,7 @@
             "open_issues": 14,
             "owner": "intel",
             "repo": "intel-one-mono",
-            "stars": 10257,
+            "stars": 10259,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -1016,7 +1016,7 @@
             "open_issues": 15,
             "owner": "0xType",
             "repo": "0xProto",
-            "stars": 2969,
+            "stars": 2970,
             "topics": [
               "design",
               "font",
@@ -1069,7 +1069,7 @@
             "open_issues": 19,
             "owner": "blobject",
             "repo": "agave",
-            "stars": 1092,
+            "stars": 1093,
             "topics": [
               "font",
               "monospace",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T02:29:54.042Z",
+    "last_updated": "2026-11-18T01:40:13.935Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",
