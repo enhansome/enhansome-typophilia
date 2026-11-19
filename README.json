@@ -19,7 +19,7 @@
             "open_issues": 211,
             "owner": "JetBrains",
             "repo": "JetBrainsMono",
-            "stars": 13182,
+            "stars": 13184,
             "topics": [
               "coding-font",
               "font",
@@ -47,7 +47,7 @@
             "open_issues": 13,
             "owner": "iaolo",
             "repo": "iA-Fonts",
-            "stars": 4200,
+            "stars": 4201,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -272,7 +272,7 @@
             "open_issues": 22,
             "owner": "tokotype",
             "repo": "PlusJakartaSans",
-            "stars": 1134,
+            "stars": 1137,
             "topics": [
               "font",
               "ofl",
@@ -348,11 +348,11 @@
             "id": 105702631,
             "language": "CSS",
             "license": "OFL-1.1",
-            "last_commit": "2026-11-12T13:43:42Z",
+            "last_commit": "2026-11-18T18:40:03Z",
             "open_issues": 86,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11778,
+            "stars": 11783,
             "topics": [
               "design",
               "font",
@@ -459,7 +459,7 @@
             "open_issues": 4,
             "owner": "RandomMaerks",
             "repo": "Overused-Grotesk",
-            "stars": 828,
+            "stars": 829,
             "topics": [
               "font",
               "grotesk",
@@ -514,10 +514,10 @@
             "language": null,
             "license": "OFL-1.1",
             "last_commit": "2021-12-19T01:29:00Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "anewtypeofinterference",
             "repo": "Optician-Sans",
-            "stars": 707,
+            "stars": 708,
             "topics": [
               "font",
               "opticians",
@@ -731,7 +731,7 @@
             "open_issues": 12,
             "owner": "ctrlcctrlv",
             "repo": "some-time-later",
-            "stars": 195,
+            "stars": 196,
             "topics": [
               "font",
               "nickelodeon",
@@ -757,7 +757,7 @@
             "open_issues": 0,
             "owner": "noirblancrouge",
             "repo": "Formera",
-            "stars": 182,
+            "stars": 183,
             "topics": [
               "font",
               "fonts",
@@ -967,7 +967,7 @@
             "open_issues": 38,
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11485,
+            "stars": 11488,
             "topics": [
               "font",
               "fonts",
@@ -995,7 +995,7 @@
             "open_issues": 14,
             "owner": "intel",
             "repo": "intel-one-mono",
-            "stars": 10259,
+            "stars": 10261,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -1016,7 +1016,7 @@
             "open_issues": 15,
             "owner": "0xType",
             "repo": "0xProto",
-            "stars": 2970,
+            "stars": 2971,
             "topics": [
               "design",
               "font",
@@ -1042,7 +1042,7 @@
             "open_issues": 23,
             "owner": "IdreesInc",
             "repo": "Miracode",
-            "stars": 1410,
+            "stars": 1409,
             "topics": [
               "font",
               "fonts",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T01:40:13.935Z",
+    "last_updated": "2026-11-19T01:16:25.728Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",
