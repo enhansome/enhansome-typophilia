@@ -353,14 +353,14 @@ The common typeface classifications are:
 
 ## Custom Corporate Fonts
 
-1. [JetBrains Mono](https://www.jetbrains.com/lp/mono/) on [GitHub](https://github.com/JetBrains/JetBrainsMono) ⭐ 13,186 | 🐛 211 | 🌐 Shell | 📅 2025-01-31
-2. [iA-Fonts](https://ia.net/topics/a-typographic-christmas) on [GitHub](https://github.com/iaolo/iA-Fonts) ⭐ 4,200 | 🐛 13 | 📅 2026-10-02
-3. [Cal Sans](https://github.com/calcom/font) ⭐ 1,755 | 🐛 5 | 🌐 Python | 📅 2026-11-04 used by cal.com
+1. [JetBrains Mono](https://www.jetbrains.com/lp/mono/) on [GitHub](https://github.com/JetBrains/JetBrainsMono) ⭐ 13,190 | 🐛 211 | 🌐 Shell | 📅 2025-01-31
+2. [iA-Fonts](https://ia.net/topics/a-typographic-christmas) on [GitHub](https://github.com/iaolo/iA-Fonts) ⭐ 4,203 | 🐛 13 | 📅 2026-10-02
+3. [Cal Sans](https://github.com/calcom/font) ⭐ 1,755 | 🐛 3 | 🌐 Python | 📅 2026-11-20 used by cal.com
 4. Apple's [San Francisco](https://developer.apple.com/fonts/) on [GitHub](https://github.com/AppleDesignResources/SanFranciscoFont) ⭐ 1,087 | 🐛 7 | 📅 2017-03-01
 5. [Red Hat fonts](https://www.redhat.com/en/about/brand/standards/typography) on [GitHub](https://github.com/RedHatOfficial/RedHatFont) ⭐ 628 | 🐛 35 | 🌐 HTML | 📅 2026-04-28 by [MCKL](https://mckltype.com/red-hat)
 6. [Reddit Sans](https://github.com/reddit/redditsans) ⭐ 468 | 🐛 5 | 🌐 Pug | 📅 2025-06-09
 7. [Twilio Sans Mono](https://github.com/twilio/twilio-sans-mono) ⚠️ Archived by Sharp Type
-8. Intel's [Clear Sans](https://github.com/intel/clear-sans) ⚠️ Archived & [One Mono](https://github.com/intel/intel-one-mono) ⭐ 10,263 | 🐛 14 | 📅 2026-11-04
+8. Intel's [Clear Sans](https://github.com/intel/clear-sans) ⚠️ Archived & [One Mono](https://github.com/intel/intel-one-mono) ⭐ 10,262 | 🐛 14 | 📅 2026-11-04
 9. [HackerNoon Font](https://github.com/hackernoon/font) ⭐ 66 | 🐛 2 | 📅 2022-08-31
 10. [Balsamiq Sans Font](https://balsamiq.com/givingback/opensource/font/) on [GitHub](https://github.com/balsamiq/balsamiqsans) ⭐ 43 | 🐛 0 | 🌐 Python | 📅 2026-11-16
 11. [Airbnb Cereal](https://airbnb.design/cereal/) by Dalton Maag on [GitHub](https://github.com/iyadh/cereal-airbnb-font) ⭐ 8 | 🐛 0 | 📅 2019-02-25
@@ -402,8 +402,8 @@ The common typeface classifications are:
 
 ## Fonts by Government and Public Institutions
 
-1. [+Jakarta Sans](https://github.com/tokotype/PlusJakartaSans) ⭐ 1,137 | 🐛 22 | 🌐 Python | 📅 2024-01-18
-2. [Cooper Hewitt](https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/) from Smithsonian Design Musium on [GitHub](https://github.com/cooperhewitt/cooperhewitt-typeface) ⭐ 427 | 🐛 11 | 📅 2015-09-04
+1. [+Jakarta Sans](https://github.com/tokotype/PlusJakartaSans) ⭐ 1,138 | 🐛 22 | 🌐 Python | 📅 2024-01-18
+2. [Cooper Hewitt](https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/) from Smithsonian Design Musium on [GitHub](https://github.com/cooperhewitt/cooperhewitt-typeface) ⭐ 428 | 🐛 11 | 📅 2015-09-04
 3. [SORA typeface](https://github.com/sora-xor/sora-font) ⭐ 188 | 🐛 7 | 🌐 Python | 📅 2024-05-01 - neutral sans serif typeface
 4. [Public Sans](https://public-sans.digital.gov/) by U.S. Web Design System ([USWDS](https://designsystem.digital.gov/))
 5. [Canada1500](http://typodermicfonts.com/canada1500/)
@@ -415,9 +415,9 @@ The common typeface classifications are:
 
 ## Notable Free Fonts
 
-1. [IBM Plex](https://www.ibm.com/plex/) on [GitHub](https://github.com/IBM/plex) ⭐ 11,783 | 🐛 87 | 🌐 CSS | 📅 2026-11-19
+1. [IBM Plex](https://www.ibm.com/plex/) on [GitHub](https://github.com/IBM/plex) ⭐ 11,784 | 🐛 87 | 🌐 CSS | 📅 2026-11-19
 2. Mozilla's [Fira Type Family](https://mozilla.github.io/Fira/) on [GitHub](https://github.com/mozilla/Fira) ⚠️ Archived
-3. [London Underground Dot-Matrix Typeface](https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface) ⭐ 1,613 | 🐛 5 | 📅 2025-08-14
+3. [London Underground Dot-Matrix Typeface](https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface) ⭐ 1,614 | 🐛 5 | 📅 2025-08-14
 4. Adobe's Source Type Family on [GitHub](https://github.com/adobe-fonts)
 5. GitHub's [Monaspace superfamily](https://monaspace.githubnext.com/) & [Mona Sans](https://github.com/mona-sans)
 6. [Inter](https://rsms.me/inter/) originally built for [Figma](https://www.figma.com/blog/the-birth-of-inter/)
@@ -437,7 +437,7 @@ The common typeface classifications are:
 
 ## Fonts on GitHub (Excluding Google Fonts)
 
-1. [Open Runde](https://github.com/lauridskern/open-runde) ⭐ 1,606 | 🐛 12 | 📅 2026-07-25 rounded variant of Inter.
+1. [Open Runde](https://github.com/lauridskern/open-runde) ⭐ 1,605 | 🐛 12 | 📅 2026-07-25 rounded variant of Inter.
 2. [Overused Grotesk](https://github.com/RandomMaerks/Overused-Grotesk) ⭐ 829 | 🐛 4 | 🌐 Python | 📅 2026-10-26 - classic neo-grotesk Swiss design
 3. [Open Sauce Fonts](https://github.com/marcologous/Open-Sauce-Fonts) ⭐ 709 | 🐛 13 | 🌐 HTML | 📅 2026-05-11 Creative Sauce's internal type super family.
 4. [Optician Sans](https://github.com/anewtypeofinterference/Optician-Sans) ⭐ 708 | 🐛 7 | 📅 2021-12-19 Typeface based on the historical eye charts and optotypes used by opticians world wide.
@@ -448,7 +448,7 @@ The common typeface classifications are:
 9. [basement grotesque](https://github.com/basementstudio/basement-grotesque) ⭐ 336 | 🐛 17 | 🌐 TypeScript | 📅 2023-03-06
 10. [Outfit Fonts](https://github.com/Outfitio/Outfit-Fonts) ⚠️ Archived - geometric sans
 11. [Techna Sans](https://github.com/carlstype/techna-sans) ⭐ 253 | 🐛 5 | 📅 2019-08-19 Sharp, geometric typeface
-12. [Some Time Later](https://github.com/ctrlcctrlv/some-time-later) ⭐ 196 | 🐛 12 | 🌐 Python | 📅 2020-12-14 - Font inspired by the title and time cards in the Nickelodeon cartoon SpongeBob SquarePants.
+12. [Some Time Later](https://github.com/ctrlcctrlv/some-time-later) ⭐ 197 | 🐛 12 | 🌐 Python | 📅 2020-12-14 - Font inspired by the title and time cards in the Nickelodeon cartoon SpongeBob SquarePants.
 13. [Formera](https://github.com/noirblancrouge/Formera) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2025-02-14 - Futura Renner
 14. [Helmet](https://github.com/carlstype/helmet) ⭐ 177 | 🐛 2 | 📅 2019-10-04 - a neo-grotesque display typeface.
 15. [Sprat](https://github.com/EthanNakache/Sprat-type) ⭐ 99 | 🐛 2 | 📅 2020-12-27 - display typeface based on an alphabet by Eric Gill.
@@ -460,10 +460,10 @@ The common typeface classifications are:
 
 ## Popular Fonts for Coding
 
-1. [Monocraft](https://github.com/IdreesInc/Monocraft) ⭐ 11,484 | 🐛 38 | 🌐 Python | 📅 2026-05-27 - Minecraft typeface
-2. [Intel One Mono](https://github.com/intel/intel-one-mono) ⭐ 10,263 | 🐛 14 | 📅 2026-11-04
-3. [0xProto](https://github.com/0xType/0xProto) ⭐ 2,971 | 🐛 15 | 🌐 Python | 📅 2026-03-21
-4. [Miracode](https://github.com/IdreesInc/Miracode) ⭐ 1,409 | 🐛 23 | 🌐 Python | 📅 2025-08-05 Sharper Monocraft
+1. [Monocraft](https://github.com/IdreesInc/Monocraft) ⭐ 11,486 | 🐛 38 | 🌐 Python | 📅 2026-05-27 - Minecraft typeface
+2. [Intel One Mono](https://github.com/intel/intel-one-mono) ⭐ 10,262 | 🐛 14 | 📅 2026-11-04
+3. [0xProto](https://github.com/0xType/0xProto) ⭐ 2,973 | 🐛 15 | 🌐 Python | 📅 2026-03-21
+4. [Miracode](https://github.com/IdreesInc/Miracode) ⭐ 1,410 | 🐛 23 | 🌐 Python | 📅 2025-08-05 Sharper Monocraft
 5. [Agave](https://github.com/blobject/agave) ⭐ 1,092 | 🐛 19 | 🌐 Tcl | 📅 2026-09-15
 6. [Iosevka](https://typeof.net/Iosevka/)
 7. [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
@@ -494,7 +494,7 @@ The common typeface classifications are:
 
 ## Font Aggregators
 
-1. [Google Fonts](https://fonts.google.com/) font files on [GitHub](https://github.com/google/fonts/tree/main/ofl) ⭐ 20,785 | 🐛 1,515 | 🌐 HTML | 📅 2026-11-20
+1. [Google Fonts](https://fonts.google.com/) font files on [GitHub](https://github.com/google/fonts/tree/main/ofl) ⭐ 20,787 | 🐛 1,517 | 🌐 HTML | 📅 2026-11-21
 2. [Fontsource](https://fontsource.org/) 1695 families. NPM packages.
 3. [Online Web Fonts](https://www.onlinewebfonts.com/fonts) - font files from websites
 4. [Font Meme](https://fontmeme.com/) - Discover fonts used in popular culture.
@@ -664,4 +664,4 @@ Source: *Thinking with Type* by Ellen Lupton
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
