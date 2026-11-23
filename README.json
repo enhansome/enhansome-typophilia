@@ -19,7 +19,7 @@
             "open_issues": 211,
             "owner": "JetBrains",
             "repo": "JetBrainsMono",
-            "stars": 13193,
+            "stars": 13198,
             "topics": [
               "coding-font",
               "font",
@@ -47,7 +47,7 @@
             "open_issues": 13,
             "owner": "iaolo",
             "repo": "iA-Fonts",
-            "stars": 4204,
+            "stars": 4205,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -349,10 +349,10 @@
             "language": "CSS",
             "license": "OFL-1.1",
             "last_commit": "2026-11-19T19:24:32Z",
-            "open_issues": 87,
+            "open_issues": 88,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11785,
+            "stars": 11789,
             "topics": [
               "design",
               "font",
@@ -377,7 +377,7 @@
             "open_issues": 0,
             "owner": "mozilla",
             "repo": "Fira",
-            "stars": 5129,
+            "stars": 5128,
             "topics": [
               "abandoned",
               "unmaintained"
@@ -401,7 +401,7 @@
             "open_issues": 5,
             "owner": "petykowski",
             "repo": "London-Underground-Dot-Matrix-Typeface",
-            "stars": 1614,
+            "stars": 1613,
             "topics": [
               "dlr",
               "font",
@@ -434,7 +434,7 @@
             "open_issues": 12,
             "owner": "lauridskern",
             "repo": "open-runde",
-            "stars": 1607,
+            "stars": 1609,
             "topics": [
               "design",
               "font",
@@ -629,7 +629,7 @@
             "open_issues": 6,
             "owner": "wanteddev",
             "repo": "wanted-sans",
-            "stars": 374,
+            "stars": 373,
             "topics": [
               "font",
               "fonts",
@@ -967,7 +967,7 @@
             "open_issues": 38,
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11487,
+            "stars": 11488,
             "topics": [
               "font",
               "fonts",
@@ -995,7 +995,7 @@
             "open_issues": 14,
             "owner": "intel",
             "repo": "intel-one-mono",
-            "stars": 10264,
+            "stars": 10263,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -1069,7 +1069,7 @@
             "open_issues": 19,
             "owner": "blobject",
             "repo": "agave",
-            "stars": 1092,
+            "stars": 1093,
             "topics": [
               "font",
               "monospace",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T23:50:49.805Z",
+    "last_updated": "2026-11-23T00:20:51.819Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",
@@ -1097,7 +1097,7 @@
       "open_issues": 1,
       "owner": "subidit",
       "repo": "typophilia",
-      "stars": 127,
+      "stars": 128,
       "topics": [
         "awesome",
         "awesome-list",
