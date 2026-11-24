@@ -19,7 +19,7 @@
             "open_issues": 211,
             "owner": "JetBrains",
             "repo": "JetBrainsMono",
-            "stars": 13198,
+            "stars": 13203,
             "topics": [
               "coding-font",
               "font",
@@ -47,7 +47,7 @@
             "open_issues": 13,
             "owner": "iaolo",
             "repo": "iA-Fonts",
-            "stars": 4205,
+            "stars": 4206,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -68,7 +68,7 @@
             "open_issues": 3,
             "owner": "calcom",
             "repo": "sans",
-            "stars": 1756,
+            "stars": 1757,
             "topics": [
               "cal-sans",
               "design",
@@ -137,7 +137,7 @@
             "open_issues": 5,
             "owner": "reddit",
             "repo": "redditsans",
-            "stars": 468,
+            "stars": 469,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:18.849Z"
@@ -434,7 +434,7 @@
             "open_issues": 12,
             "owner": "lauridskern",
             "repo": "open-runde",
-            "stars": 1609,
+            "stars": 1612,
             "topics": [
               "design",
               "font",
@@ -459,7 +459,7 @@
             "open_issues": 4,
             "owner": "RandomMaerks",
             "repo": "Overused-Grotesk",
-            "stars": 830,
+            "stars": 832,
             "topics": [
               "font",
               "grotesk",
@@ -542,7 +542,7 @@
             "open_issues": 1,
             "owner": "ivodolenc",
             "repo": "aspekta",
-            "stars": 566,
+            "stars": 567,
             "topics": [
               "aspekta",
               "collection",
@@ -572,7 +572,7 @@
             "open_issues": 1,
             "owner": "ivodolenc",
             "repo": "aspekta",
-            "stars": 566,
+            "stars": 567,
             "topics": [
               "aspekta",
               "collection",
@@ -602,7 +602,7 @@
             "open_issues": 0,
             "owner": "noirblancrouge",
             "repo": "YoungSerif",
-            "stars": 482,
+            "stars": 484,
             "topics": [
               "font",
               "fonts",
@@ -654,7 +654,7 @@
             "open_issues": 17,
             "owner": "basementstudio",
             "repo": "basement-grotesque",
-            "stars": 336,
+            "stars": 337,
             "topics": [
               "design",
               "font",
@@ -757,7 +757,7 @@
             "open_issues": 0,
             "owner": "noirblancrouge",
             "repo": "Formera",
-            "stars": 183,
+            "stars": 184,
             "topics": [
               "font",
               "fonts",
@@ -967,7 +967,7 @@
             "open_issues": 38,
             "owner": "IdreesInc",
             "repo": "Monocraft",
-            "stars": 11488,
+            "stars": 11491,
             "topics": [
               "font",
               "fonts",
@@ -1013,10 +1013,10 @@
             "language": "Python",
             "license": "OFL-1.1",
             "last_commit": "2026-03-21T10:01:37Z",
-            "open_issues": 15,
+            "open_issues": 14,
             "owner": "0xType",
             "repo": "0xProto",
-            "stars": 2973,
+            "stars": 2974,
             "topics": [
               "design",
               "font",
@@ -1039,7 +1039,7 @@
             "language": "Python",
             "license": "OFL-1.1",
             "last_commit": "2025-08-05T21:13:43Z",
-            "open_issues": 23,
+            "open_issues": 20,
             "owner": "IdreesInc",
             "repo": "Miracode",
             "stars": 1412,
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T00:20:51.819Z",
+    "last_updated": "2026-11-24T04:19:21.979Z",
     "original_repository_info": {
       "archived": false,
       "description": "💝 Trivia about typefaces. ",
@@ -1097,7 +1097,7 @@
       "open_issues": 1,
       "owner": "subidit",
       "repo": "typophilia",
-      "stars": 128,
+      "stars": 129,
       "topics": [
         "awesome",
         "awesome-list",
